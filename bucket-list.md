@@ -2,6 +2,7 @@
 layout: bucket-list
 title: Impossible List
 permalink: /impossible-list/
+comments: true
 ---
 
 The Impossible List was inspired by Thomas Frank over at [collegeinfogeek.com](http://collegeinfogeek.com/). Check out his site for a great blog regarding being the best college student and person you can be. Some of my list was inspired by Ryan Eller. The link to his list is [here](http://ryaneller.com/bucketlist/281-awesome-bucket-list-items-you-should-add-to-your-list/).
