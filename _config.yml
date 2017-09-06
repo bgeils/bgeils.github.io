@@ -6,10 +6,10 @@
 name: Brendon Geils
 
 # Short bio or description (displayed in the header)
-description: Engineer & Entreprenuer
+description: CEO/Co-Founder @ Sodima Solutions. <br>ISU Electrical Engineering. 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://ichef.bbci.co.uk/news/660/cpsprodpb/1082B/production/_87472676_thinkstockphotos-502314190.jpg
+avatar: https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/bgeils.jpg
 
 #
 # Flags below are optional
@@ -34,7 +34,7 @@ footer-links:
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus:
+disqus: brendongeils
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
