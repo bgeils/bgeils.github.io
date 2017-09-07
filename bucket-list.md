@@ -94,16 +94,16 @@ The Impossible List was inspired by Thomas Frank over at [collegeinfogeek.com](h
 # Travel
 
 1. Live in another country
-2. Pick up a Hitch Hiker (Michigan to Iowa)
+2. ~~Pick up a Hitch Hiker~~ (Michigan to Iowa)
 	* Be picked up (hitch hike)
 3. Travel to all 50 States (23 visited)
 4. Visit all 7 continents
-5. Visit Europe
+5. ~~Visit Europe~~
 6. Visit Asia
 7. Play soccer in South America
-8. Eat chocolate in Switzerland
-9. Show up to the airport with no itinerary or destination, book a flight then (Denver, CO)
-10. Live in a warm climate location (minimum 3 months) (Cape Canaveral, FL)
+8. ~~Eat chocolate in Switzerland~~
+9. ~~Show up to the airport with no itinerary or destination, book a flight then~~ (Denver, CO)
+10. ~~Live in a warm climate location (minimum 6 months)~~ (Cape Canaveral, FL)
 11. Backpack a country for a month
 12. Set foot on every continent
 13. Visit a volcano
@@ -116,3 +116,79 @@ The Impossible List was inspired by Thomas Frank over at [collegeinfogeek.com](h
 19. Ride camels in Morocco
 20. Climb Mt. Kilimanjaro
 21. Ride in a gondola in Venice
+
+# Events
+
+1. ~~Collegiate Entrepreneurship Organization~~ (CEO) (October 2014, 2016)
+2. SouthEast Entrepreneurship Conference (SEEC)
+3. SXSW Conference
+4. ~~Spring Awakening Music Festival~~  (2015, 2014, 2013, 2012)
+5. ~~Okoboji Entrepreneurial Institute~~ (2015)
+6. Coachella
+7. Lollapalooza
+8. Tomorrowland
+9. World Cup
+10. Superbowl
+11. Olympics
+12. Kentucky Derby
+13. Day of the Dead in Mexico
+
+# Experiences
+
+1. ~~Go skydiving~~ (2015, 2014)
+	* Skydive solo
+	* Halo Jump
+2. Go white-water rafting
+3. ~~Learn to surf~~ (Pacific Beach)
+4. ~~Swim with dolphins~~
+5. Swim with sharks
+6. Cross-country America
+7. Ride in a hot air balloon
+8. See 7 Wonders of the World
+9. Scuba dive
+10. Learn to sail
+11. ~~Pull an all-nighter in Vegas~~
+12. Hop a train car
+13. Ride an elephant through India
+14. Spend New Year’s Eve in Times Square, NY (2015/16)
+15. Place a $1000 bet in Vegas
+16. ~~Fly in a helicopter~~ (Chicago)
+17. ~~Watch a rocket launch~~ (Cape Canaveral)
+18. Go to space
+19. ~~Camp on a beach~~ (Cape Canaveral)
+20. ~~Enjoy the front row of a concert~~
+21. Go ghost hunting
+22. Deep sea fishing
+23. Go off the map for a week
+
+# Misc
+
+1. Pay it Forward at a drive-through
+2. Reverse pickpocket $20
+3. Leave a $100 tip
+4. Learn to drive stick
+5. ~~Get gas at the world’s largest truck stop~~ (Iowa 80)
+6. Have a book published
+7. ~~Learn to ride a Motorcycle~~ (Iowa City)
+8. Have something named after myself
+9. Be an extra in a movie
+10. Wear a snake around my neck
+11. Name a star
+12. Crash a Hollywood studio
+13. ~~Crowd surf a concert~~ (Spring Awakening Music Festival)
+14. ~~Learn to DJ~~ (Wakefield Entertainment)
+15. Learn to breakdance
+16. Learn to ballroom dance
+17. Send a message in a bottle and get a response
+18. Develop my own camera film
+19. Print a circuit board
+20. Meet the president
+21. Learn to pickle food
+22. Find a four leaf clover
+23. Walk on hot coals
+24. Learn to brew the perfect cup of coffee
+25. Help someone check something off their list
+26. Drive a sports car up the coast of California
+
+If you have any suggestions or a link to your list, send me an [email](mailto:brendonjgeils@gmail.com)
+
