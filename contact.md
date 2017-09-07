@@ -3,13 +3,14 @@ layout: page
 title: Contact
 permalink: /contact/
 ---
+Contact me regarding any of the following subjects:
 
-Some information about you!
+* Programming (My favorites are Python and Javascript)
+* Business Ventures/Entrepreneurship
+* Travel Experiences (grab something off my bucket list!)
+* Data Science/Analytics/Statistics – NLP (Natural Language Processing)
+* Blockchain Tech / ICOs
+* Investing Opportunities
+* Anything remotely interesting, I'm all ears
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Email: [brendonjgeils@gmail.com](mailto:brendonjgeils@gmail.com)
