@@ -3,6 +3,7 @@ layout: page
 title: Contact
 permalink: /contact/
 ---
+
 Contact me regarding any of the following subjects:
 
 * Programming (My favorites are Python and Javascript)
