@@ -38,6 +38,9 @@ The Impossible List was inspired by Thomas Frank over at [collegeinfogeek.com](h
 3. ~~Run a half marathon~~ (Humana Rock ‘n’ Roll, Chicago, IL)
 4. Run a marathon
 5. ~~Compete in a sprint triathlon~~ (Loves Park, IL)
+
+![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/tri.jpg "Spring Triathlon with Brooke G.")
+
 6. ~~Compete in a duathlon~~ (Iowa City, IA)
 7. ~~Compete in an olympic triathlon~~ (Graniteman Tri, MN)
 8. Compete in a half ironman
@@ -63,6 +66,8 @@ The Impossible List was inspired by Thomas Frank over at [collegeinfogeek.com](h
 25. Walk the Golden Gate bridge
 
 # Business
+
+![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/redbox.jpg "Redbox Founder Mike DeLazzer")
 
 1. ~~Launch a business~~ (Sodima Solutions)
 2. Help someone launch their own business
@@ -92,6 +97,8 @@ The Impossible List was inspired by Thomas Frank over at [collegeinfogeek.com](h
 	* Scala
 
 # Travel
+
+![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/world.png)
 
 1. Live in another country
 2. ~~Pick up a Hitch Hiker~~ (Michigan to Iowa)
@@ -153,10 +160,16 @@ The Impossible List was inspired by Thomas Frank over at [collegeinfogeek.com](h
 14. Spend New Year’s Eve in Times Square, NY (2015/16)
 15. Place a $1000 bet in Vegas
 16. ~~Fly in a helicopter~~ (Chicago)
+
+![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/heli.jpg)
+
 17. ~~Watch a rocket launch~~ (Cape Canaveral)
 18. Go to space
 19. ~~Camp on a beach~~ (Cape Canaveral)
 20. ~~Enjoy the front row of a concert~~
+
+![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/concert.jpg "Spring Awakening Music Festival")
+
 21. Go ghost hunting
 22. Deep sea fishing
 23. Go off the map for a week
@@ -168,6 +181,9 @@ The Impossible List was inspired by Thomas Frank over at [collegeinfogeek.com](h
 3. Leave a $100 tip
 4. Learn to drive stick
 5. ~~Get gas at the world’s largest truck stop~~ (Iowa 80)
+
+![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/truck.png "Iowa 80 Truck Stop")
+
 6. Have a book published
 7. ~~Learn to ride a Motorcycle~~ (Iowa City)
 8. Have something named after myself
@@ -177,6 +193,9 @@ The Impossible List was inspired by Thomas Frank over at [collegeinfogeek.com](h
 12. Crash a Hollywood studio
 13. ~~Crowd surf a concert~~ (Spring Awakening Music Festival)
 14. ~~Learn to DJ~~ (Wakefield Entertainment)
+
+![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/wake.jpg "Wakefield Entertainment")
+
 15. Learn to breakdance
 16. Learn to ballroom dance
 17. Send a message in a bottle and get a response
