@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Turning your world upside down
+title: Ladder Goals
 ---
 
 Problem: We set goals, but don’t follow through with them because we lose sight of the next step or lose focus of the direction we were headed when we made the goals.
@@ -52,3 +52,5 @@ Some tasks are crossed out. This means I’ve completed them and have moved up t
 This method by no means is set in stone. Feel free to review this weekly or monthly to make edits where needed. Be sure the edits you make are because you have new found passions or uncovered a new route, and not because you are being lazy. Email me or comment how this has helped you or what edits you’ve made to the system.
 
 Here is another image of my current ladder goal board:
+
+![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/world.png)
