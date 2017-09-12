@@ -14,13 +14,16 @@ The Impossible List was inspired by Thomas Frank over at [collegeinfogeek.com](h
 1. Make a BIG difference in the world
 2. Marry my best friend
 3. Be someone’s best man
-4. ~~Speak to 100 people~~ (2014 CEO Conference)
+4. *~~Speak to 100 people~~ (2014 CEO Conference)*
 	* ~~500 people~~ (ISU Basketball Game DJ/Emcee)
 	* 1000 people
 5. Teach a university class
 6. Find two mentors that help me achieve success
 7. Buy a beach house in California
 8. ~~Live in New York, NY~~ (Palantir Internship)
+
+![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/nyc.jpg "NYC with Eric C.")
+
 9. Fund someone’s way through college
 10. Read the top 100 books of all time (currently @ 5)
 11. Start a scholarship fund/program
