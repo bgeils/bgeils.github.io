@@ -29,3 +29,9 @@ Characteristics:
 As I write this I am avidly following Ethereum's price moving in and out of the market... wait I thought you said that isn't sound investment advice. You're right. As behaviorial economics has shown us we are not rational creatures. I justify my small day trading activites as a sort of entertainment cost. Nothing more and nothing less. 
 
 If there is enough interest I'll create a post on how to invest in index funds.
+
+
+More reading:
+http://www.philosophicaleconomics.com/2016/05/passive/
+
+https://www.aei.org/publication/warren-buffett-wins-1m-bet-made-a-decade-ago-that-the-sp-500-stock-index-would-outperform-hedge-funds/

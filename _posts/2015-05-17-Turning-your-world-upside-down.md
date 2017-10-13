@@ -25,4 +25,5 @@ Why?
 
 When you are spending countless hours building teams, developing products and marketing your solutions for a startup that aligns with your life purpose you won’t work a day in your life. Having the passion behind an idea will give you the motivation to make it through the toughest of times.
 
-Take some time to sit down and read through Ryan Allias’ slides at www.hive.org/20s and define your life purpose. A well-defined life purpose might just turn your world upside down, as it did mine.
+Take some time to sit down and read through Ryan Allias’ slides at [hive.org/20s](www.hive.org/20s) and define your life purpose. A well-defined life purpose might just turn your world upside down, as it did mine.
+
