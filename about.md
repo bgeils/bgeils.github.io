@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hiya! My name is Brendon Geils. I currently attend Iowa State University studying electrical engineering. I am from Elgin, IL a suburb of Chicago. My fondness for entrepreneurial ventures and technology related businesses has led to the founding of a startup, Sodima Solutions. Building  Sodima Solutions I’ve learned invaluable lessons, which I share in my blog. My current hobbies include chess, philosophy, programming and traveling (cliche we know, who doesn’t).
+Hi! My name is Brendon Geils. I currently attend Iowa State University studying electrical engineering. I am from Elgin, IL a suburb of Chicago. My fondness for entrepreneurial ventures and technology related businesses has led to the founding of a startup, Sodima Solutions. Building  Sodima Solutions I’ve learned invaluable lessons, which I share in my blog. My current hobbies include chess, philosophy, programming and traveling (cliche we know, who doesn’t).
 
 ![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/cambridge.jpg "Cambridge")
 
