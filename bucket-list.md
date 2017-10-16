@@ -40,7 +40,9 @@ The Impossible List was inspired by Thomas Frank over at [collegeinfogeek.com](h
 2. ~~Run a 10k~~
 3. ~~Run a half marathon~~ (Humana Rock ‘n’ Roll, Chicago, IL)
 4. ~~Run a marathon~~ (IMT Des Moines Marathon, Des Moines, IA)
-![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/marathon.jpg "IMT Des Moines Marathon")
+
+![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/marathon.jpg "IMT Des Moines Marathon ")
+
 5. ~~Compete in a sprint triathlon~~ (Loves Park, IL)
 
 ![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/tri.jpg "Spring Triathlon with Brooke G.")
@@ -168,7 +170,9 @@ The Impossible List was inspired by Thomas Frank over at [collegeinfogeek.com](h
 ![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/heli.jpg)
 
 17. ~~Watch a rocket launch~~ (Cape Canaveral, FL)
+
 ![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/space.jpg "Falcon 9. Florida")
+
 18. Go to space
 19. ~~Camp on a beach~~ (Cape Canaveral)
 20. ~~Enjoy the front row of a concert~~
