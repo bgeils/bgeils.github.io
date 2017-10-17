@@ -31,7 +31,7 @@ The Impossible List was inspired by Thomas Frank over at [collegeinfogeek.com](h
 16. Wake up every morning headed to my dream career
 17. Become a mentor
 
-![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/nyc.jpg "NYC with Eric C.")
+![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/nyc.jpg "NYC with Eric C."){: .center-image }
 
 # Fitness/Health
 
@@ -64,7 +64,7 @@ The Impossible List was inspired by Thomas Frank over at [collegeinfogeek.com](h
 24. ~~Survive Zika~~
 25. Walk the Golden Gate bridge
 
-![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/marathon.jpg "IMT Des Moines Marathon ")
+![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/marathon.jpg "IMT Des Moines Marathon "){: .center-image }
 
 # Business
 
@@ -95,7 +95,7 @@ The Impossible List was inspired by Thomas Frank over at [collegeinfogeek.com](h
 	* Typescript
 	* Scala
 
-![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/redbox.jpg "Redbox Founder Mike DeLazzer")
+![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/redbox.jpg "Redbox Founder Mike DeLazzer"){: .center-image }
 
 # Travel
 
@@ -123,7 +123,7 @@ The Impossible List was inspired by Thomas Frank over at [collegeinfogeek.com](h
 20. Climb Mt. Kilimanjaro
 21. Ride in a gondola in Venice
 
-![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/world.png)
+![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/world.png){: .center-image }
 
 # Events
 
@@ -169,7 +169,7 @@ The Impossible List was inspired by Thomas Frank over at [collegeinfogeek.com](h
 22. Deep sea fishing
 23. Go off the map for a week
 
-![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/space.jpg "Falcon 9. Florida")
+![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/space.jpg "Falcon 9. Florida"){: .center-image }
 
 # Misc
 
