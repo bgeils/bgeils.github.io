@@ -287,6 +287,11 @@ footer {
   del { 
       color: red;
   }
+
+  .center-image{
+    margin: 0 auto;
+    display: block;
+  }
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS

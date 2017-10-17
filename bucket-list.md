@@ -200,7 +200,7 @@ The Impossible List was inspired by Thomas Frank over at [collegeinfogeek.com](h
 25. Help someone check something off their list
 26. Drive a sports car up the coast of California
 
-![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/truck.png "Iowa 80 Truck Stop")
+![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/truck.png "Iowa 80 Truck Stop"){: .center-image }
 
 If you have any suggestions or a link to your list, send me an [email](mailto:brendonjgeils@gmail.com)
 
