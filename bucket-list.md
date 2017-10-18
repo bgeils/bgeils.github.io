@@ -29,7 +29,7 @@ The Impossible List was inspired by Thomas Frank over at [collegeinfogeek.com](h
 14. Graduate Iowa State University with a 3.7 or higher
 15. Complete a master’s program in physics or stats
 16. Wake up every morning headed to my dream career
-17. Become a mentor
+17. ~~Become a mentor~~ (Ryan B.)
 
 ![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/nyc.jpg "NYC with Eric C."){: .center-image }
 
