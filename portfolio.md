@@ -41,6 +41,22 @@ o	Resources used
 #### Resources used
 * Node.js, Express, mySQL 
 
+## DC-AC Inverter (EE330)
+
+![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/ee330.png){: .center-image }
+
+#### Description
+* The most common use for this device, and the use we had in mind, is for taking in a voltage source from a solar panel and converting it to the 120 or 240 VRMS signal that is acceptable by the power grid.
+
+#### My role
+* Circuit design and testing.
+
+#### Skills or knowledge gained
+* Non-linear devices, BJTs, high power design
+
+#### Resources used
+* Cadence
+
 
 #### Energy Blockchain (Senior Design Project)
 
