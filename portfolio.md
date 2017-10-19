@@ -9,8 +9,40 @@ o	Your role
 o	Skills or knowledge gained
 o	Resources used
 
-![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/marsrover.jpg){: .left-image }
+## Mars Rover (CPRE 288)
 
+![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/marsrover.jpg){: .center-image }
+
+#### Description
+* In this project we programmed a modified Roomba device to traverse an environemnt to reach the goal. The device would manuever around obstacles using various sensing technology. The device worked without human intervention after placed in the environment.
+
+#### My role
+* My role was to provide a both a user interface for visualizing the environment from the devices' perspective and additionally help with programming the various communication channels in C.
+
+#### Skills or knowledge gained
+* Gained low level C programming and embedded experience. Comm technology: sonic & light based radar sensors.
+
+#### Resources used
+* Worked with Atmel Studio and an ATmega chip.
+
+## Moralit.ai (Princeton Hackathon)
+
+![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/moralit.png){: .center-image }
+
+#### Description
+* Moralit.ai is an artificially intelligent personal assistant which uses natural language processing and machine learning to perform moral decision making. By adhering to deontological principles surrounding murder, suffering, adultery, and deception, moralit.it determines the ethical permissibility of performing action requests from the user.
+
+#### My role
+* My role was to build the machine learning processor to use general consensus sentiment on a subject to make a decision. Over time this system would self correct. 
+
+#### Skills or knowledge gained
+* Machine learning tools, natural language processing, philosophical implications
+
+#### Resources used
+* Node.js, Express, mySQL 
+
+
+#### Energy Blockchain (Senior Design Project)
 
 θ	Senior Design Project
 o	Description of project
@@ -20,7 +52,7 @@ o	Link supporting documents
 o	Big picture contribution
 
 
-## Career Objectives: 
+## Career Objectives:
 
 My goal is to help provide socially responsible technology solutions with a focus on the energy sector. I believe I can provide the most innovate soluitons in the near term by assisting organizations as a consultant. Long term I would like to join or start a company to provide a niche service to the energy sector.
 
