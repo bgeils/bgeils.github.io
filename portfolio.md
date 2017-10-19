@@ -4,11 +4,6 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-o	Description of project
-o	Your role
-o	Skills or knowledge gained
-o	Resources used
-
 ## Mars Rover (CPRE 288)
 
 ![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/marsrover.jpg){: .center-image }
@@ -57,16 +52,26 @@ o	Resources used
 #### Resources used
 * Cadence
 
+## Energy Blockchain (Senior Design Project)
 
-#### Energy Blockchain (Senior Design Project)
+![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/energyblockchain.png){: .center-image }
 
-θ	Senior Design Project
-o	Description of project
-o	Your role
-o	Skills or knowledge gained
-o	Link supporting documents
-o	Big picture contribution
+#### Description
+* A blockchain solution that will allow consumers to efficiently trade their energy directly at a house to house level – allowing them to save money and maximise the use of their rooftop solar and wind energy. 
 
+#### My role
+* Blockchain engineer, energy consultant
+
+#### Skills or knowledge gained
+* Test driven programming, blockchain engineering, utility and energy systems
+
+#### Links
+* [Press](http://brendongeils.com/energy/)
+* [Company](http://pwr.company)
+* [Code](https://github.com/bgeils/pwr-blockchain)
+
+#### Big Picture
+* The planet is heating up. There’s no denying that we need to, as a species, do better to protect the world for future generations. There is far too much inefficiency in the current power distribution networks – not only for fossil fuels but also for renewables. And this creates a number of environmental and logistical problems. There are far too many players in the current value chain in the energy industry who offer no value other than to trade – to buy and sell energy. They reap huge profits for doing very little other than marking up and down pricing and making profits.
 
 ## Career Objectives:
 
