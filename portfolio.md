@@ -70,6 +70,11 @@ permalink: /portfolio/
 * [Company](http://pwr.company)
 * [Code](https://github.com/bgeils/pwr-blockchain)
 
+## Quantum Visualization
+
+* [link](http://qchackers.com)
+
+
 #### Internships
 
 * Palantir - Summer 2017 - London, UK
