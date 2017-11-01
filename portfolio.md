@@ -70,6 +70,15 @@ permalink: /portfolio/
 * [Company](http://pwr.company)
 * [Code](https://github.com/bgeils/pwr-blockchain)
 
+#### Internships
+
+* Palantir - Summer 2017 - London, UK
+* Palantir - Summer 2016 - New York City, NY
+* Sodima Solutions - Fall 2016 - Miami, FL
+* SpaceX - Spring 2016 - Cape Canaveral, FL
+* Procter & Gamble - Summer 2015 - Iowa City, IA
+* Procter & Gamble - Summer 2014 - Iowa City, IA
+
 #### Big Picture
 * The planet is heating up. There’s no denying that we need to, as a species, do better to protect the world for future generations. There is far too much inefficiency in the current power distribution networks – not only for fossil fuels but also for renewables. And this creates a number of environmental and logistical problems. There are far too many players in the current value chain in the energy industry who offer no value other than to trade – to buy and sell energy. They reap huge profits for doing very little other than marking up and down pricing and making profits.
 
