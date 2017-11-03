@@ -4,12 +4,19 @@ title: Energy Blockchain
 permalink: /energy/
 ---
 
-(More info coming soon...)
+## The Problem
+
+The main aim of this project is to incentivize renewable energy generation from individuals and small businesses by facilitating peer to peer trading of surplus energy. By creating this free market environment for energy trading, individuals will think more about how they produce and consume energy, and will be inclined to generate energy of their own. With this new understanding and market accessibility, energy prices will fluctuate to be at parity with their true value, not just what the utility company dictates. 
+
+The secondary goal that this project aims to reach is aiding in the decentralization of the power generation market. The interconnectedness of grids has already contributed to the reduction of blackouts, as one individual power plant or utility company is not solely responsible for all energy generation. As things currently stand, a Chicago grid can pull from a Toronto plant if they approach their capacity curve. Our system would aid this interconnectedness a degree further, as the power loss and cost to move energy a mile up the road would be less than the power loss and cost to move that energy from Toronto to Chicago. A more decentralized grid would help the overall grid to be robust to fluctuations, as the sources of energy would be widespread and independent. 
+
+### Proposed Solution
+
+This project has two major components: the development of an inexpensive and user friendly smart power meter and software to facilitate peer to peer trading of surplus energy. When these two stages of the project are complete, individuals using our hardware and software will be able to buy or sell surplus energy at significantly better rates than could be obtained going through a utility company. 
+
+### News Coverage:
 
 [Youtube Link](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
-
-
-News Coverage:
 
 * [uk.news.yahoo.com](https://uk.news.yahoo.com/blockchain-project-wins-dutch-international-191246643.html)
 * [www.ibtimes.co.uk](http://www.ibtimes.co.uk/blockchain-project-wins-dutch-international-energy-hackathon-1587267)
