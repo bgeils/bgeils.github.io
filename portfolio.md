@@ -4,21 +4,34 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-## Mars Rover (CPRE 288)
+## Future Founders Fellowship
 
-![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/marsrover.jpg){: .center-image }
+![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/futurefounders.jpeg){: .center-image }
 
-#### Description
-* In this project we programmed a modified Roomba device to traverse an environemnt to reach the goal. The device would manuever around obstacles using various sensing technology. The device worked without human intervention after placed in the environment.
+One of 17 entrepreneurs selected to join a 12-month program to assist in their ventures through high caliber mentors, resources, and a strong peer group. Representing 15 schools in nine states the program is nationwide. The represented industries include agriculture, consumer products, food and tech.
 
-#### My role
-* My role was to provide a both a user interface for visualizing the environment from the devices' perspective and additionally help with programming the various communication channels in C.
+Throughout the fellowship I was able to grow Sodima Solutions by expanding into our first product, Atlas Fitness, while building communication technology for multiple start ups. 
 
-#### Skills or knowledge gained
-* Gained low level C programming and embedded experience. Comm technology: sonic & light based radar sensors.
+* [Release Link](https://www.prnewswire.com/news-releases/future-founders-names-2017-fellows-17-entrepreneurs-you-should-know-300388639.html)
 
-#### Resources used
-* Worked with Atmel Studio and an ATmega chip.
+
+## Sodima Solutions
+
+Sodima had its humble beginnings in Miami, Fl during Florida International University's Spring Hackathon. I met my co-founder Marcellus G. during the event, where we immediately clicked. The following months we spend working as a pair with a focus on web services and digital marketing. As we grew into the communication space we had the opporunity to work heavily with two startups, Structurely & Terva, bringing their ideas to an MVP and product release. During the 20 months at Sodima Solutions our company secured revenue of ~100k and equity in multiple startups.
+
+### Structurely
+
+#### Days to Sell
+
+### Terva
+
+### Atlas Fitness
+
+## SpaceX
+
+## Research Assistant
+
+## Procter & Gamble
 
 ## Moralit.ai (Princeton Hackathon)
 
@@ -79,7 +92,6 @@ permalink: /portfolio/
 
 * Palantir - Summer 2017 - London, UK
 * Palantir - Summer 2016 - New York City, NY
-* Sodima Solutions - Fall 2016 - Miami, FL
 * SpaceX - Spring 2016 - Cape Canaveral, FL
 * Procter & Gamble - Summer 2015 - Iowa City, IA
 * Procter & Gamble - Summer 2014 - Iowa City, IA

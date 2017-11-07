@@ -7,6 +7,7 @@ permalink: /contact/
 Contact me regarding any of the following subjects:
 
 * Energy Sector & Sustainability
+* Quantum Computing (Hardware + Software)
 * Business Ventures/Entrepreneurship
 * Travel Experiences (grab something off my bucket list!)
 * Data Science/Analytics/Statistics
