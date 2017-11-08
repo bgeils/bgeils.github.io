@@ -19,13 +19,31 @@ Throughout the fellowship I was able to grow Sodima Solutions by expanding into 
 
 Sodima had its humble beginnings in Miami, Fl during Florida International University's Spring Hackathon. I met my co-founder Marcellus G. during the event, where we immediately clicked. The following months we spend working as a pair with a focus on web services and digital marketing. As we grew into the communication space we had the opporunity to work heavily with two startups, Structurely & Terva, bringing their ideas to an MVP and product release. During the 20 months at Sodima Solutions our company secured revenue of ~100k and equity in multiple startups.
 
-### Structurely
+### Structurely [page](https://structurely.com)
+
+One of Sodima's first contracts was for Structurely. We had been tasked to build an artifically intelligent chat technology for their real estate company. The project was a finalist for Inman's Most Innovative Technology in real estate in 2016. Our company had the opportunity to build three iterations of this technology. The first iteration was selected to demo at Facebook's HQ. Additionally, Sodima was hired to build a full database system, API, and front end customer portal. Today over 3,500 agents from across 39 states are using this technology to help with their job of selling the right home to people. 
+
+Tech Stack: React, Redux, GraphQL, Node, Meteor, PSQL, AWS, Digital Ocean, nginx, python ML kits, API.AI, Flask.
 
 #### Days to Sell
 
-### Terva
+![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/daystosell.jpg){: .center-image }
+
+At an SF hackathon our team designed an algorithm for picking a price to sell your home given the number of days you are willing to wait. The algorithm is patent pending. I was a member of the Structurely team during this hackathon.
+
+### Terva [page](http://landing.terva.ag/)
+
+Another client I landed for Sodima was Terva, a craigslist for farmland. The company was tasked with building a web application the allowed users to search for land for sale and interact with it accordingly. Our system incorporated a database with millions of documents that were served over in GeoJSON to visualize. 
+
+Tech Stack: Meteor, Digital Ocean, Flask, Python, Mapbox/Leaflet, MongoDB
 
 ### Atlas Fitness
+
+![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/atlas.png){: .center-image }
+
+Atlas was the first product Sodima realeased. Atlas Fitness is a chatbot for helping people get to consitently get to the gym. The technology also featured products and workouts that our clients could configure. In three months we grew to ~1k users and ~7 clients including gyms in NYC and Miami. 
+
+![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/atlas_customer.png){: .center-image }
 
 ## SpaceX
 
@@ -65,12 +83,16 @@ Sodima had its humble beginnings in Miami, Fl during Florida International Unive
 #### Resources used
 * Cadence
 
-## Energy Blockchain (Senior Design Project)
+## Energy Platform 
 
 ![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/energyblockchain.png){: .center-image }
 
+
+
 #### Description
 * A blockchain solution that will allow consumers to efficiently trade their energy directly at a house to house level – allowing them to save money and maximise the use of their rooftop solar and wind energy. 
+
+[Most recent repo](https://github.com/bgeils/open-energy)
 
 #### My role
 * Blockchain engineer, energy consultant
