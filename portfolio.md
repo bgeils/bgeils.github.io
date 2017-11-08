@@ -8,7 +8,7 @@ permalink: /portfolio/
 
 ![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/qc.png){: .center-image }
 
-* [link](http://qchackers.com)
+Here is a [link](http://qchackers.com) to test out the tool.
 
 ## Energy Platform 
 
