@@ -108,7 +108,7 @@ Tech Stack: Node.js, Express, mySQL, NLP models
 
 ## Palantir -- Deployment Strategist Internship
 
-![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/palantir.jpg){: .center-image }
+![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/palantir.jpg){: .center-image-small }
 
 * Summer 2017 -- London, UK
 * Summer 2016 -- New York City, NY
@@ -139,7 +139,7 @@ As an instrumentation and comm intern my focus was on designing and implementing
 
 ## Research Assistant -- Iowa State University
 
-![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/isu.png){: .center-image }
+![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/isu.png){: .center-image-small }
 
 * 2015 - 2016
 
