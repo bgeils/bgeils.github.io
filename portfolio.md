@@ -40,6 +40,15 @@ Sodima had its humble beginnings in Miami, Fl during Florida International Unive
 * [Pitch Competition](http://www.iowastatedaily.com/news/academics/article_8c6e0d9e-0480-11e7-b610-1f042f982db0.html)
 * [Chatbot landscape](https://blog.botmakers.net/chatbot-developers-landscape-130-development-agencies-powering-the-future-of-chatbots-industry-5cec2e1eeb34)
 
+## Atlas Fitness
+
+![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/atlas.png){: .center-image }
+
+Atlas was the first product Sodima realeased. Atlas Fitness is a chatbot for helping people get to consitently get to the gym. The technology also featured products and workouts that our clients could configure. In three months we grew to ~1k users and ~7 clients including gyms in NYC and Miami. During the release Atlas was named the #1 fitness chatbot and #3 health chatbot
+
+![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/atlas_customer.png){: .center-image }
+
+
 ### Structurely [link](https://structurely.com)
 
 One of Sodima's first contracts was for Structurely. We had been tasked to build an artifically intelligent chat technology for their real estate company. The project was a finalist for Inman's Most Innovative Technology in real estate in 2016. Our company had the opportunity to build three iterations of this technology. The first iteration was selected to demo at Facebook's HQ. Additionally, Sodima was hired to build a full database system, API, and front end customer portal. Today over 3,500 agents from across 39 states are using this technology to help with their job of selling the right home to people. 
@@ -58,19 +67,6 @@ Another client I landed for Sodima was Terva, a craigslist for farmland. The com
 
 Tech Stack: Meteor, Digital Ocean, Flask, Python, Mapbox/Leaflet, MongoDB
 
-### Atlas Fitness
-
-![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/atlas.png){: .center-image }
-
-Atlas was the first product Sodima realeased. Atlas Fitness is a chatbot for helping people get to consitently get to the gym. The technology also featured products and workouts that our clients could configure. In three months we grew to ~1k users and ~7 clients including gyms in NYC and Miami. During the release Atlas was named the #1 fitness chatbot and #3 health chatbot
-
-![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/atlas_customer.png){: .center-image }
-
-## SpaceX
-
-## Research Assistant
-
-## Procter & Gamble
 
 ## Moralit.ai (Princeton's Hackathon)
 
@@ -82,19 +78,28 @@ Moralit.ai is an artificially intelligent personal assistant which uses natural 
 
 Tech Stack: Node.js, Express, mySQL, NLP models
 
+## Palantir (Deployment Strategist Internship)
+
+* Summer 2017 - London, UK
+* Summer 2016 - New York City, NY
 
 
+## SpaceX (Instrumentation & RangeOps Internship, Cape Canaveral, FL)
 
-#### Internships
+![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/waterlanding.gif){: .center-image }
 
-* Palantir - Summer 2017 - London, UK
-* Palantir - Summer 2016 - New York City, NY
-* SpaceX - Spring 2016 - Cape Canaveral, FL
-* Procter & Gamble - Summer 2015 - Iowa City, IA
-* Procter & Gamble - Summer 2014 - Iowa City, IA
+* Spring 2016
 
-* [[Get to know]](http://www.isupjcenter.org/2017/02/get-to-know-brendon-geils/)
+## Research Assistant (Iowa State University)
+ 
+## Procter & Gamble (Power Controls & Information Systems Engineering Internship, Iowa City, IA)
+
+* Summer 2015 - Iowa City, IA
+* Summer 2014 - Iowa City, IA
 
 
+### General 
+
+[[Get to know]](http://www.isupjcenter.org/2017/02/get-to-know-brendon-geils/)
 
 ### Resume: [Link](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/BrendonGeilsResume.pdf)
