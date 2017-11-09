@@ -108,6 +108,8 @@ Tech Stack: Node.js, Express, mySQL, NLP models
 
 ## Palantir -- Deployment Strategist Internship
 
+![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/palantir.jpg){: .center-image }
+
 * Summer 2017 -- London, UK
 * Summer 2016 -- New York City, NY
 
@@ -136,6 +138,9 @@ As an instrumentation and comm intern my focus was on designing and implementing
 *We had a few of these too... but practice makes perfect.*
 
 ## Research Assistant -- Iowa State University
+
+![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/isu.png){: .center-image }
+
 * 2015 - 2016
 
 • Insider threat analysis through anomaly detection, flagging malicious behavior in enterprise systems
