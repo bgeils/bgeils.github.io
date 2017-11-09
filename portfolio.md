@@ -6,9 +6,13 @@ permalink: /portfolio/
 
 ## Quantum Visualization (Harvard's Hackathon)
 
-![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/qc.png){: .center-image }
+![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/qcviz.gif){: .center-image }
 
 Here is a [link](http://qchackers.com) to test out the tool.
+
+
+I believe quantum computing has unquantifiable potential within the next 25 years. Given the close relationship with electrical and software engineering, I was drawn to understand how this technology can shape my generation. After attending Harvard's hackathon I had the opportunity to carve a niche within this field. Our team built a quantum simulator for visualizing quantum programs (here). As the hardware race closes there will be a need for the "Code Academy" of quantum programming. 
+
 
 ## Energy Platform 
 
@@ -83,26 +87,46 @@ Tech Stack: Node.js, Express, mySQL, NLP models
 * Summer 2017 - London, UK
 * Summer 2016 - New York City, NY
 
+• Assisted in building and deploying cybersecurity web based software for Fortune 500 company users
+• Data ingestion of 100GB+/day in cyber security logs from the client
+• Client point of contact and developer intermediary for feature selection and product deployments
+
 
 ## SpaceX (Instrumentation & RangeOps Internship, Cape Canaveral, FL)
 
-•	Assisted in the launching and landing of five Falcon 9 rockets at LC-40 and SLC-39A 
-•	Launch support for Falcon 9/Heavy launches with focus on electrical systems and RF communication
-•	Designed a hazard operation end-to-end communication system for pre-flight operations
-•	Built a real time data analysis engine for pre-flight checkouts improving reliability 
+* Spring 2016
+
+As a instrumentation and comm intern my focus was on designing and implementing systems for ground control to reliably launch Falcon 9 rockets. During my time at the Cape I helped launch  and, fingers crossed, land five Falcon 9 rockets at LC-40 and SLC-39A. The majority of my time was spend on 39A projects. This is the same space launch complex as the Apollo missions from '63 to '72. Part of the 39A work was associated with pad completion for Falcon Heavy. I also worked with the payload and Dragon install implementing an end-to-end hazard-safe communication system for pre-flight operations. 
 
 
 ![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/waterlanding.gif){: .center-image }
-*We also landed the first rocket on water!*
 
-* Spring 2016
+*Landing the first rocket on water, during the internship.*
+
+![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/waterfall.gif){: .center-image }
+
+*We had a few of these too... but practice makes perfect.*
 
 ## Research Assistant (Iowa State University)
+* 2015 - 2016
+
+• Insider threat analysis through anomaly detection, flagging malicious behavior in enterprise systems
+• Data analysis in underrepresented minority student enrollment and graduation within STEM majors
  
 ## Procter & Gamble (Power Controls & Information Systems Engineering Internship, Iowa City, IA)
 
 * Summer 2015 - Iowa City, IA
 * Summer 2014 - Iowa City, IA
+
+• Led 10 projects in vision systems, VBA programming, software training, system installations & upgrades
+• Provided a global P&G software solution for PLC revision DBs saving 20 hours/month per site
+• Utilized statistical analysis and data integrity for enterprise data systems
+
+## Wakefield Entertainment
+
+• Independently managed company finances, marketing, and web development
+• Operational event planning for over 100 events and 60+ clients in two states
+• Grew yearly revenue to $25,000 organically in two years – Sold January, 2015
 
 
 ### General 
