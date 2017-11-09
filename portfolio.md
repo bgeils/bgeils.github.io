@@ -8,17 +8,29 @@ permalink: /portfolio/
 
 ![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/qcviz.gif){: .center-image }
 
-Here is a [link](http://qchackers.com) to test out the tool.
+As quantum hardware is progressing there is a future where a programmer would execute certain portions of their programs on a quantum computer. To assist in the paradigm shift that software and hardware are going through in the quantum realm, our team built a quantum VM and visualization tool. The best case scenario is a future where this tool becomes the Code Academy for the quantum programmers. After researching optical and ion based quantum implementations I joined a team at Harvard to address the software angle of quantum. 
 
+Using the quantum properties of superposition and entanglement certain problems within computer science have expontential speeds ups. Factoring problems and unordered search are two common applications. Our initial design used Regetti's quantum API to process the programs we wrote in QUIL, what we dub the assembly language of quantum computers. After Regetti's server went down we were forced into implementing our own quantum virtual machine. The basic gates we needed to implement in a universial gate set were X, Y, Z and CNOT. 
 
-I believe quantum computing has unquantifiable potential within the next 25 years. Given the close relationship with electrical and software engineering, I was drawn to understand how this technology can shape my generation. After attending Harvard's hackathon I had the opportunity to carve a niche within this field. Our team built a quantum simulator for visualizing quantum programs (here). As the hardware race closes there will be a need for the "Code Academy" of quantum programming. 
+*Want to try the visualizer out yourself? [Here you go.](http://qchackers.com)*
 
+Code Snippet to try out
+```js
+X 0 
+X 0
+MEASURE 0 [1]
+```
+The X Gate performs a rotation of pi around the x axis.
 
-## Energy Platform 
+## Open Energy Platform 
 
 ![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/energyblockchain.png){: .center-image }
 
-An energy platform solution that allows consumers to efficiently trade their energy directly at a house to house level – allowing them to save money and maximise the use of their solar and wind energy. The project's humble beginnings was a blockchain implentation in IBM's Hyperledger technology. The next revision was ported to Ethereum. The most recent repo boasts a classic web app that allows for more throughput and quicker development cycles. 
+An energy platform solution that allows consumers to efficiently trade their energy directly at a house to house level – allowing them to save money and maximise the use of their solar and wind energy. The project's humble beginnings was a blockchain implentation in IBM's Hyperledger technology. The next revision was ported to Ethereum. The most recent repo boasts a classic web app that allows for more throughput and quicker development cycles.
+
+There is [evidence](http://www.solarcity.com/sites/default/files/SolarCity_Distributed_Grid-021016.pdf) that a distributed grid has a net positive benefit for society. The issue arises in that there is little incentive to implement this system. The incentive is spread out over the masses while the few parties that benefit from the current model lobby to keep it with a strong presence. 
+
+Open Energy wants to break down these barriers to distributed energy 
 
 
 #### Links
@@ -132,5 +144,3 @@ As a instrumentation and comm intern my focus was on designing and implementing 
 ### General 
 
 [[Get to know]](http://www.isupjcenter.org/2017/02/get-to-know-brendon-geils/)
-
-### Resume: [Link](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/BrendonGeilsResume.pdf)
