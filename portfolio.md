@@ -49,14 +49,18 @@ Throughout the fellowship I was able to grow Sodima Solutions by expanding into 
 * [ISU Press](http://www.ece.iastate.edu/files/2011/02/Summer-2017-Connections-Web.pdf)
 
 
-## Sodima Solutions
+## Sodima Solutions -- Co-Founder/CEO
+
+![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/sodima.jpg){: .center-image }
+
+* 2015 - 2016 -- Miami, FL
 
 Sodima had its humble beginnings in Miami, Fl during Florida International University's Spring Hackathon. I met my co-founder Marcellus G. during the event, where we immediately clicked. The following months we spend working as a pair with a focus on web services and digital marketing. As we grew into the communication space we had the opporunity to work heavily with two startups, Structurely & Terva, bringing their ideas to an MVP and product release. During the 20 months at Sodima Solutions our company secured revenue of ~100k and equity in multiple startups.
 
 * [Pitch Competition](http://www.iowastatedaily.com/news/academics/article_8c6e0d9e-0480-11e7-b610-1f042f982db0.html)
 * [Chatbot landscape](https://blog.botmakers.net/chatbot-developers-landscape-130-development-agencies-powering-the-future-of-chatbots-industry-5cec2e1eeb34)
 
-## Atlas Fitness
+## Atlas Fitness - Owned by Sodima Solutions
 
 ![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/atlas.png){: .center-image }
 
@@ -65,11 +69,13 @@ Atlas was the first product Sodima realeased. Atlas Fitness is a chatbot for hel
 ![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/atlas_customer.png){: .center-image }
 
 
-### Structurely [link](https://structurely.com)
+### Structurely 
 
 One of Sodima's first contracts was for Structurely. We had been tasked to build an artifically intelligent chat technology for their real estate company. The project was a finalist for Inman's Most Innovative Technology in real estate in 2016. Our company had the opportunity to build three iterations of this technology. The first iteration was selected to demo at Facebook's HQ. Additionally, Sodima was hired to build a full database system, API, and front end customer portal. Today over 3,500 agents from across 39 states are using this technology to help with their job of selling the right home to people. 
 
 Tech Stack: React, Redux, GraphQL, Node, Meteor, PSQL, AWS, Digital Ocean, nginx, python ML kits, API.AI, Flask.
+
+[Link to Structurely's homepage](https://structurely.com)
 
 #### Days to Sell
 
@@ -77,14 +83,16 @@ Tech Stack: React, Redux, GraphQL, Node, Meteor, PSQL, AWS, Digital Ocean, nginx
 
 At an SF hackathon our team designed an algorithm for picking a price to sell your home given the number of days you are willing to wait. The algorithm is patent pending. During this hackathon I learned various clustering algorithms and various data visualization techniques. Also, this was the first time I was introduced to Jupyter notebooks, I haven't looked back since.
 
-### Terva [link](http://landing.terva.ag/)
+### Terva 
 
 Another client I landed for Sodima was Terva, a craigslist for farmland. The company was tasked with building a web application the allowed users to search for land for sale and interact with it accordingly. Our system incorporated a database with millions of documents that were served over in GeoJSON to visualize. 
 
 Tech Stack: Meteor, Digital Ocean, Flask, Python, Mapbox/Leaflet, MongoDB
 
+[Link to Terva's homepage](http://landing.terva.ag/)
 
-## Moralit.ai (Princeton's Hackathon)
+
+## Moralit.ai -- Princeton's Hackathon
 
 ![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/moralit.png){: .center-image }
 
@@ -94,40 +102,46 @@ Moralit.ai is an artificially intelligent personal assistant which uses natural 
 
 Tech Stack: Node.js, Express, mySQL, NLP models
 
-## Palantir (Deployment Strategist Internship)
+## Palantir -- Deployment Strategist Internship
 
-* Summer 2017 - London, UK
-* Summer 2016 - New York City, NY
+* Summer 2017 -- London, UK
+* Summer 2016 -- New York City, NY
 
 • Assisted in building and deploying cybersecurity web based software for Fortune 500 company users
 • Data ingestion of 100GB+/day in cyber security logs from the client
 • Client point of contact and developer intermediary for feature selection and product deployments
 
 
-## SpaceX (Instrumentation & RangeOps Internship, Cape Canaveral, FL)
+## SpaceX -- Instrumentation & RangeOps Internship
 
-* Spring 2016
+* Spring 2016 -- Cape Canaveral, FL
 
 As a instrumentation and comm intern my focus was on designing and implementing systems for ground control to reliably launch Falcon 9 rockets. During my time at the Cape I helped launch  and, fingers crossed, land five Falcon 9 rockets at LC-40 and SLC-39A. The majority of my time was spend on 39A projects. This is the same space launch complex as the Apollo missions from '63 to '72. Part of the 39A work was associated with pad completion for Falcon Heavy. I also worked with the payload and Dragon install implementing an end-to-end hazard-safe communication system for pre-flight operations. 
 
 
 ![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/waterlanding.gif){: .center-image }
+
 *Video Source: Youtube @spacexchannel*
 
 *Landing the first rocket on water, during the internship.*
 
 ![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/waterfall.gif){: .center-image }
+
 *Video Source: Youtube @spacexchannel*
 
 *We had a few of these too... but practice makes perfect.*
 
-## Research Assistant (Iowa State University)
+## Research Assistant -- Iowa State University
 * 2015 - 2016
 
 • Insider threat analysis through anomaly detection, flagging malicious behavior in enterprise systems
 • Data analysis in underrepresented minority student enrollment and graduation within STEM majors
  
-## Procter & Gamble (Power Controls & Information Systems Engineering Internship, Iowa City, IA)
+## Procter & Gamble -- Power Controls & Information Systems Engineering Internship
+
+![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/pg.jpg){: .center-image }
+
+*Pictured outside Procter & Gamble HQ in Cincinnati, Ohio*
 
 * Summer 2015 - Iowa City, IA
 * Summer 2014 - Iowa City, IA
