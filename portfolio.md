@@ -30,12 +30,12 @@ An energy platform solution that allows consumers to efficiently trade their ene
 
 There is [evidence](http://www.solarcity.com/sites/default/files/SolarCity_Distributed_Grid-021016.pdf) that a distributed grid has a net positive benefit for society. The issue arises in that there is little incentive to implement this system. The incentive is spread out over the masses while the few parties that benefit from the current model lobby to keep it with a strong presence. 
 
-Open Energy wants to break down these barriers to distributed energy 
+The mission for Open Energy is to break down these barriers, by creating an environment for peer to peer energy transactions. In certain locations there are solar or wind installations that produce energy at a cost cheaper than the grid. By allowing individuals the opportunity to buy this energy you 1. incentivize the producer to purchase more clean energy installations and 2. save money for the consumer. There a myriad of other benefits including lower transmission costs, infrastructure, and a reduction in energy buffers for a utility.
 
+To follow along or contribute fork [this repo](https://github.com/bgeils/open-energy).
 
-#### Links
 * [Press](http://brendongeils.com/energy/)
-* [Most recent repo](https://github.com/bgeils/open-energy)
+
 
 ## Future Founders Fellowship
 
@@ -112,10 +112,12 @@ As a instrumentation and comm intern my focus was on designing and implementing 
 
 
 ![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/waterlanding.gif){: .center-image }
+*Video Source: Youtube @spacexchannel*
 
 *Landing the first rocket on water, during the internship.*
 
 ![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/waterfall.gif){: .center-image }
+*Video Source: Youtube @spacexchannel*
 
 *We had a few of these too... but practice makes perfect.*
 
