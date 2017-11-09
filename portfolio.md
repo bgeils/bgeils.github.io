@@ -138,10 +138,11 @@ As a instrumentation and comm intern my focus was on designing and implementing 
 
 ## Wakefield Entertainment
 
-• Independently managed company finances, marketing, and web development
-• Operational event planning for over 100 events and 60+ clients in two states
-• Grew yearly revenue to $25,000 organically in two years – Sold January, 2015
+![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/wakefield.jpg){: .center-image }
 
+*Left to Right: Brendon Geils, Adam Horn*
+
+Managed company finances, marketing, and web development. Operational event planning for over 100 events and 60+ clients in two states. Grew yearly revenue to $25,000 organically in two years – Sold January, 2015
 
 ### General 
 
