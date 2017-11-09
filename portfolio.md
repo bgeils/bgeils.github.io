@@ -86,7 +86,14 @@ Tech Stack: Node.js, Express, mySQL, NLP models
 
 ## SpaceX (Instrumentation & RangeOps Internship, Cape Canaveral, FL)
 
+•	Assisted in the launching and landing of five Falcon 9 rockets at LC-40 and SLC-39A 
+•	Launch support for Falcon 9/Heavy launches with focus on electrical systems and RF communication
+•	Designed a hazard operation end-to-end communication system for pre-flight operations
+•	Built a real time data analysis engine for pre-flight checkouts improving reliability 
+
+
 ![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/waterlanding.gif){: .center-image }
+*We also landed the first rocket on water!*
 
 * Spring 2016
 
