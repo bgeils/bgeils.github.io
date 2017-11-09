@@ -10,7 +10,7 @@ permalink: /portfolio/
 
 As quantum hardware is progressing there is a future where a programmer would execute certain portions of their programs on a quantum computer. To assist in the paradigm shift that software and hardware are going through in the quantum realm, our team built a quantum VM and visualization tool. The best case scenario is a future where this tool becomes the Code Academy for the quantum programmers. After researching optical and ion based quantum implementations I joined a team at Harvard to address the software angle of quantum. 
 
-Using the quantum properties of superposition and entanglement certain problems within computer science have expontential speeds ups. Factoring problems and unordered search are two common applications. Our initial design used Regetti's quantum API to process the programs we wrote in QUIL, what we dub the assembly language of quantum computers. After Regetti's server went down we were forced into implementing our own quantum virtual machine. The basic gates we needed to implement in a universial gate set were X, Y, Z and CNOT. 
+Using the quantum properties of superposition and entanglement certain problems within computer science have exponential speeds ups. Factoring problems and unordered search are two common applications. Our initial design used Regetti's quantum API to process the programs we wrote in QUIL, what we dub the assembly language of quantum computers. After Regetti's server went down we were forced into implementing our own quantum virtual machine. The basic gates we needed to implement in a universal gate set were X, Y, Z and CNOT. 
 
 *Want to try the visualizer out yourself? [Here you go.](http://qchackers.com)*
 
@@ -26,7 +26,7 @@ The X Gate performs a rotation of pi around the x axis.
 
 ![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/energyblockchain.png){: .center-image }
 
-An energy platform solution that allows consumers to efficiently trade their energy directly at a house to house level – allowing them to save money and maximise the use of their solar and wind energy. The project's humble beginnings was a blockchain implentation in IBM's Hyperledger technology. The next revision was ported to Ethereum. The most recent repo boasts a classic web app that allows for more throughput and quicker development cycles.
+An energy platform solution that allows consumers to efficiently trade their energy directly at a house to house level – allowing them to save money and maximize the use of their solar and wind energy. The project's humble beginnings were a blockchain implementation in IBM's Hyperledger technology. The next revision was ported to Ethereum. The most recent repo boasts a classic web app that allows for more throughput and quicker development cycles.
 
 There is [evidence](http://www.solarcity.com/sites/default/files/SolarCity_Distributed_Grid-021016.pdf) that a distributed grid has a net positive benefit for society. The issue arises in that there is little incentive to implement this system. The incentive is spread out over the masses while the few parties that benefit from the current model lobby to keep it with a strong presence. 
 
@@ -55,7 +55,7 @@ Throughout the fellowship I was able to grow Sodima Solutions by expanding into 
 
 * 2015 - 2016 -- Miami, FL
 
-Sodima had its humble beginnings in Miami, Fl during Florida International University's Spring Hackathon. I met my co-founder Marcellus G. during the event, where we immediately clicked. The following months we spend working as a pair with a focus on web services and digital marketing. As we grew into the communication space we had the opporunity to work heavily with two startups, Structurely & Terva, bringing their ideas to an MVP and product release. During the 20 months at Sodima Solutions our company secured revenue of ~100k and equity in multiple startups.
+Sodima had its humble beginnings in Miami, FL during Florida International University's Spring Hackathon. I met my co-founder Marcellus G. during the event, where we immediately clicked. The following months we spend working as a pair with a focus on web services and digital marketing. As we grew into the communication space we had the opportunity to work heavily with two startups, Structurely & Terva, bringing their ideas to an MVP and product release. During the 20 months at Sodima Solutions our company secured revenue of ~100k and equity in multiple startups.
 
 * [Pitch Competition](http://www.iowastatedaily.com/news/academics/article_8c6e0d9e-0480-11e7-b610-1f042f982db0.html)
 * [Chatbot landscape](https://blog.botmakers.net/chatbot-developers-landscape-130-development-agencies-powering-the-future-of-chatbots-industry-5cec2e1eeb34)
@@ -64,14 +64,16 @@ Sodima had its humble beginnings in Miami, Fl during Florida International Unive
 
 ![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/atlas.png){: .center-image }
 
-Atlas was the first product Sodima realeased. Atlas Fitness is a chatbot for helping people get to consitently get to the gym. The technology also featured products and workouts that our clients could configure. In three months we grew to ~1k users and ~7 clients including gyms in NYC and Miami. During the release Atlas was named the #1 fitness chatbot and #3 health chatbot
+Atlas was the first product Sodima released. Atlas Fitness is a chatbot for helping people get to consistently get to the gym. The technology also featured products and workouts that our clients could configure. In three months we grew to ~1k users and ~7 clients including gyms in NYC and Miami. During the release Atlas was named the #1 fitness chatbot and #3 health chatbot
 
 ![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/atlas_customer.png){: .center-image }
 
 
 ### Structurely 
 
-One of Sodima's first contracts was for Structurely. We had been tasked to build an artifically intelligent chat technology for their real estate company. The project was a finalist for Inman's Most Innovative Technology in real estate in 2016. Our company had the opportunity to build three iterations of this technology. The first iteration was selected to demo at Facebook's HQ. Additionally, Sodima was hired to build a full database system, API, and front end customer portal. Today over 3,500 agents from across 39 states are using this technology to help with their job of selling the right home to people. 
+![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/struct.png){: .center-image }
+
+One of Sodima's first contracts was for Structurely. We had been tasked to build an artificially intelligent chat technology for their real estate company. The project was a finalist for Inman's Most Innovative Technology in real estate in 2016. Our company had the opportunity to build three iterations of this technology. The first iteration was selected to demo at Facebook's HQ. Additionally, Sodima was hired to build a full database system, API, and front end customer portal. Today over 3,500 agents from across 39 states are using this technology to help with their job of selling the right home to people. 
 
 Tech Stack: React, Redux, GraphQL, Node, Meteor, PSQL, AWS, Digital Ocean, nginx, python ML kits, API.AI, Flask.
 
@@ -85,7 +87,9 @@ At an SF hackathon our team designed an algorithm for picking a price to sell yo
 
 ### Terva 
 
-Another client I landed for Sodima was Terva, a craigslist for farmland. The company was tasked with building a web application the allowed users to search for land for sale and interact with it accordingly. Our system incorporated a database with millions of documents that were served over in GeoJSON to visualize. 
+![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/terva.jpeg){: .center-image }
+
+Another client for Sodima was Terva, a craigslist for farmland. The company was tasked with building a web application the allowed users to search for land for sale and interact with it accordingly. Our system incorporated a database with millions of documents that were served over in GeoJSON to visualize. 
 
 Tech Stack: Meteor, Digital Ocean, Flask, Python, Mapbox/Leaflet, MongoDB
 
@@ -116,7 +120,7 @@ Tech Stack: Node.js, Express, mySQL, NLP models
 
 * Spring 2016 -- Cape Canaveral, FL
 
-As a instrumentation and comm intern my focus was on designing and implementing systems for ground control to reliably launch Falcon 9 rockets. During my time at the Cape I helped launch  and, fingers crossed, land five Falcon 9 rockets at LC-40 and SLC-39A. The majority of my time was spend on 39A projects. This is the same space launch complex as the Apollo missions from '63 to '72. Part of the 39A work was associated with pad completion for Falcon Heavy. I also worked with the payload and Dragon install implementing an end-to-end hazard-safe communication system for pre-flight operations. 
+As an instrumentation and comm intern my focus was on designing and implementing systems for ground control to reliably launch Falcon 9 rockets. During my time at the Cape I helped launch and, fingers crossed, land five Falcon 9 rockets at LC-40 and SLC-39A. The majority of my time was spend on 39A projects. This is the same space launch complex as the Apollo missions from '63 to '72. Part of the 39A work was associated with pad completion for Falcon Heavy. I also worked with the payload and Dragon install implementing an end-to-end hazard-safe communication system for pre-flight operations. 
 
 
 ![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/waterlanding.gif){: .center-image }
