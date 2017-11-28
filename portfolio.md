@@ -4,7 +4,26 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-## Quantum Visualization (Harvard's Hackathon)
+## Open Energy Platform 
+
+![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/energyscreen.png){: .center-image }
+
+Open Energy is an energy platform that allows consumers to efficiently trade energy at a consumer level – allowing them to save money and improve the sustainability of the grid. The project began with a blockchain implementation in IBM's Hyperledger technology during a hackathon in the Netherlands. Our team of three took home the 5000 euro grand prize for prototyping the marketplace. After the hackathon I opted to pursue the project further after speaking with Engie and Shell, two utilities.
+
+ The next iteration occured at UltraHacks a hackathon in Helsinki, Finland. I decided to port the blockchain component to Ethereum as it became the standard. The Ethereum platform had a more active community and abundant resources to leverage. 
+
+ The most recent iteration boasts a classic database that allows for more throughput and quicker development cycles compared to its blockchain peer. With the help of Iowa State University the project was accepted as a  senior design capstone project
+
+There is [evidence](http://www.solarcity.com/sites/default/files/SolarCity_Distributed_Grid-021016.pdf) that a distributed grid has a net positive benefit for society. The issue arises in that there is little incentive to implement this system. The incentive is spread out over the masses while the few parties that benefit from the current model lobby to keep it with a strong presence. 
+
+The mission for Open Energy is to break down these barriers, by creating an environment for peer to peer energy transactions. In certain locations there are solar or wind installations that produce energy at a cost cheaper than the grid. By allowing individuals the opportunity to buy this energy you 1. incentivize the producer to purchase more clean energy installations and 2. save money for the consumer. There a myriad of other benefits including lower transmission costs, infrastructure, and a reduction in energy buffers for a utility.
+
+To follow along, or contribute, fork [this repo](https://github.com/bgeils/open-energy).
+
+* [Press](http://brendongeils.com/energy/)
+* [Demo Customer Interface](http://www.myopenenergy.com)
+
+## Quantum Visualization -- Harvard's Hackathon
 
 ![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/qcviz.gif){: .center-image }
 
@@ -14,27 +33,13 @@ Using the quantum properties of superposition and entanglement certain problems 
 
 *Want to try the visualizer out yourself? [Here you go.](http://qchackers.com)*
 
-Code Snippet to try out
+Code snippet to try out
 ```js
 X 0 
 X 0
 MEASURE 0 [1]
 ```
 The X Gate performs a rotation of pi around the x axis.
-
-## Open Energy Platform 
-
-![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/energyblockchain.png){: .center-image }
-
-An energy platform solution that allows consumers to efficiently trade their energy directly at a house to house level – allowing them to save money and maximize the use of their solar and wind energy. The project's humble beginnings were a blockchain implementation in IBM's Hyperledger technology. The next revision was ported to Ethereum. The most recent repo boasts a classic web app that allows for more throughput and quicker development cycles.
-
-There is [evidence](http://www.solarcity.com/sites/default/files/SolarCity_Distributed_Grid-021016.pdf) that a distributed grid has a net positive benefit for society. The issue arises in that there is little incentive to implement this system. The incentive is spread out over the masses while the few parties that benefit from the current model lobby to keep it with a strong presence. 
-
-The mission for Open Energy is to break down these barriers, by creating an environment for peer to peer energy transactions. In certain locations there are solar or wind installations that produce energy at a cost cheaper than the grid. By allowing individuals the opportunity to buy this energy you 1. incentivize the producer to purchase more clean energy installations and 2. save money for the consumer. There a myriad of other benefits including lower transmission costs, infrastructure, and a reduction in energy buffers for a utility.
-
-To follow along or contribute fork [this repo](https://github.com/bgeils/open-energy).
-
-* [Press](http://brendongeils.com/energy/)
 
 
 ## Future Founders Fellowship
@@ -43,7 +48,7 @@ To follow along or contribute fork [this repo](https://github.com/bgeils/open-en
 
 One of 17 entrepreneurs selected to join a 12-month program to assist in their ventures through high caliber mentors, resources, and a strong peer group. Representing 15 schools in nine states the program is nationwide. The represented industries include agriculture, consumer products, food and tech.
 
-Throughout the fellowship I was able to grow Sodima Solutions by expanding into our first product, Atlas Fitness, while building communication technology for multiple start ups, Terva & Structurely -- details below.
+Throughout the fellowship I was able to grow Sodima Solutions by expanding into our first product, Atlas Fitness, while building communication technology for multiple start ups, Terva & Structurely. At the conclusion of the fellowship I was invited to the follow-on Alumni Fellowship to continue with the program -- with a select number of fellow.
 
 * [Release Link](https://www.prnewswire.com/news-releases/future-founders-names-2017-fellows-17-entrepreneurs-you-should-know-300388639.html)
 * [ISU Press](http://www.ece.iastate.edu/files/2011/02/Summer-2017-Connections-Web.pdf)
@@ -57,6 +62,21 @@ Throughout the fellowship I was able to grow Sodima Solutions by expanding into 
 
 Sodima had its humble beginnings in Miami, FL during Florida International University's Spring Hackathon. I met my co-founder Marcellus G. during the event, where we immediately clicked. The following months we spend working as a pair with a focus on web services and digital marketing. As we grew into the communication space we had the opportunity to work heavily with two startups, Structurely & Terva, bringing their ideas to an MVP and product release. During the 20 months at Sodima Solutions our company secured revenue of ~100k and equity in multiple startups.
 
+During the web development phase of the business I interviewed clients, build solutions, and maintained them. Marcellus would find and make the sale, passing off the client to me. We built the majority of our web services in wordpress or other highly managed systems. This allowed us to easily maintain the project and hand it off to our client upon completion. This taught me basic web technologies -- HTML, CSS, JS -- and more importantly how to work with our clients. Adjacent to the technology stack I grew into the finance and legal role. I drafted all our contracts prior to having professional review -- a decision that saved us big time. The finances were fairly straight forward while operating in a consulting business allowing cashflow to rarely be an issue. 
+
+Given the competitive landscape in web services we began to position ourselves to take on larger web applications and more specifically communciation technology.
+
+* Revenue: +$100K
+* Products: Atlas Fitness
+* Major Clients: Terva, Structurely
+* +15 web development clients
+* NewCo Helsinki Accelerator -- Finland
+* StartUp FIU Accelerator -- Florida International Unviersity
+* Sodima Solutions owns equity in the following two companies: 
+	* [Structurely](https://structurely.com) 5%
+	* [Terva](https://terva.ag) 4% 
+
+#### Sodima in the News
 * [Pitch Competition](http://www.iowastatedaily.com/news/academics/article_8c6e0d9e-0480-11e7-b610-1f042f982db0.html)
 * [Chatbot landscape](https://blog.botmakers.net/chatbot-developers-landscape-130-development-agencies-powering-the-future-of-chatbots-industry-5cec2e1eeb34)
 
@@ -64,9 +84,13 @@ Sodima had its humble beginnings in Miami, FL during Florida International Unive
 
 ![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/atlas.png){: .center-image }
 
-Atlas was the first product Sodima released. Atlas Fitness is a chatbot for helping people get to consistently get to the gym. The technology also featured products and workouts that our clients could configure. In three months we grew to ~1k users and ~7 clients including gyms in NYC and Miami. During the release Atlas was named the #1 fitness chatbot and #3 health chatbot
+Atlas was the first product Sodima released. Atlas Fitness is a chatbot for helping people to consistently get to the gym. The technology also featured products and workouts that our clients could configure. In three months we grew to ~1k users and seven clients including gyms in NYC and Miami. During the release Atlas was named the #1 fitness chatbot and #3 health chatbot by botlist.
+
+Tech Stack: MongoDB, API.AI, Meteor.js, Node, nginx, AWS, Python3, NLTK
 
 ![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/atlas_customer.png){: .center-image }
+
+*Pictured above is the customer interface to Atlas Fitness. Our clients log into this system to identify their audience and cater content accordingly.*
 
 
 ### Structurely 
@@ -165,7 +189,7 @@ As an instrumentation and comm intern my focus was on designing and implementing
 
 *Left to Right: Brendon Geils, Adam Horn*
 
-Managed company finances, marketing, and web development. Operational event planning for over 100 events and 60+ clients in two states. Grew yearly revenue to $25,000 organically in two years – Sold January, 2015
+During my third year in high school I co-founded a sound and lighting entertainment company. At Wakefield I managed company finances, marketing, and web development. I also organized our event planning for over 100 events and 60+ clients in two states. We grew yearly revenue to $25,000 organically in two years – Sold January, 2015. From an early age Wakefield taught me how to manage a business and organize a group of individuals to seamlessly pull off a wedding night or prom. 
 
 ### General 
 
@@ -192,10 +216,6 @@ After weighing my options, I canceled the trip. This was a turning point in my l
 Having reviewed the companies attending my university's career fair I booked a flight to UCLA to attend theirs with a focus on gettin a technology internship. While boarding the flight I recieved the email from UCLA's career staff stating I was not to attend the fair less I was an enrolled UCLA student. The wheels sputtered up and I was on my way to California from small town Iowa. With a bit of luck I was able to get into the fair and landed interviews over the next few months with Palantir, Google, Microsoft, American Express, IBM, SpaceX and Bloomberg. 
 
 I wrote a blog post shortly after [here](http://brendongeils.com/Following-passions/).
-
-#### Sodima Solutions
-
-At Sodima I began as CTO with a complete focus on the technical side. Over time I grew into the CEO role which allowed me the opportunity to strike conversation which were the end state of the technical products and services we were creating. 18 months later we closed the company after over 100,000 in revenue. The real value I took away was the knowledge of how to build and sustain a technical company.
 
 #### Hackathons
 
