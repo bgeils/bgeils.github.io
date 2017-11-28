@@ -170,3 +170,50 @@ Managed company finances, marketing, and web development. Operational event plan
 ### General 
 
 [[Get to know]](http://www.isupjcenter.org/2017/02/get-to-know-brendon-geils/)
+
+Events:
+* Collegiate Entrepreneur Organization Conference - Orlando, FL
+* Forbes Under 30 Summit - Boston, MA
+* Okoboji Entrepreneurial Institute - Okoboji, IA
+* NewCo Business Accelerator - Helsinki, Finland
+* Slush - Helsinki, Finland
+
+
+## Defining Experiences
+
+To better understand my personality, what makes me tick and some more impressionable moments in my life I've put together my most defining experiences. While working in teams I belive it is important to be vulnerable and open. The most effective way that I can be open with a new team is to understand their experiences and have them understand mine. 
+
+#### Almost Abroad
+
+As a studying electrical engineer the computer science field was always very interesting to me, but I felt I never had a chance to break into the market given my "path" was set in electrical engineering. The tipping point came when I was two weeks out from study abroad semester of lax living and reluctant studying in Spain. I knew this trip would be an eye opening cultural experience, but I would neglect my growing interest in computer science. 
+
+After weighing my options, I canceled the trip. This was a turning point in my life. I spent the subsequent months absorbing as much as I could in order to at the time get the "Google" dream job. This goal overtime faded as I understood the potential I had within the field. Studying computer science for those three months I learned something more important than the most efficient way to traverse a binary tree, but how I could change effect global systems such as quantum computing and energy markets. The following year I did just that. I worked at SpaceX, Palantir, and a company I co-founded, Sodima Solutions.
+
+Having reviewed the companies attending my university's career fair I booked a flight to UCLA to attend theirs with a focus on gettin a technology internship. While boarding the flight I recieved the email from UCLA's career staff stating I was not to attend the fair less I was an enrolled UCLA student. The wheels sputtered up and I was on my way to California from small town Iowa. With a bit of luck I was able to get into the fair and landed interviews over the next few months with Palantir, Google, Microsoft, American Express, IBM, SpaceX and Bloomberg. 
+
+I wrote a blog post shortly after [here](http://brendongeils.com/Following-passions/).
+
+#### Sodima Solutions
+
+At Sodima I began as CTO with a complete focus on the technical side. Over time I grew into the CEO role which allowed me the opportunity to strike conversation which were the end state of the technical products and services we were creating. 18 months later we closed the company after over 100,000 in revenue. The real value I took away was the knowledge of how to build and sustain a technical company.
+
+#### Hackathons
+
+Having only attended my first hackathon during my third year of college I was behind the curve when it came to these events. I quickly 
+
+15 on-site hackathons including:
+
+* Hack ISU – Iowa State University
+* HackIllinois - University of Illinois at Urbana-Champaign
+* Hack Princeton, Princeton University
+* Hack Harvard, Harvard University
+* Code 4 Good, JP Morgan Chase – Boston, MA
+* MadHacks - University of Wisconsin at Madison
+* Hack4Energy – Gronigen, Netherlands
+* UltraHack – Helsinki, Finland
+* Mango Hacks, Florida International University - Miami, FL
+* Hack Riddle - Embry-Riddle Aeronautical University
+* Intern Hacks – San Francisco
+
+
+
