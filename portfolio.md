@@ -10,13 +10,17 @@ permalink: /portfolio/
 
 Open Energy is an energy platform that allows consumers to efficiently trade energy at a consumer level – allowing them to save money and improve the sustainability of the grid. The project began with a blockchain implementation in IBM's Hyperledger technology during a hackathon in the Netherlands. Our team of three took home the 5000 euro grand prize for prototyping the marketplace. After the hackathon I opted to pursue the project further after speaking with Engie and Shell, two utilities.
 
- The next iteration occured at UltraHacks a hackathon in Helsinki, Finland. I decided to port the blockchain component to Ethereum as it became the standard. The Ethereum platform had a more active community and abundant resources to leverage. 
+ The next iteration occured at UltraHacks a hackathon in Helsinki, Finland. I decided to port the blockchain component to Ethereum as it became the standard. The Ethereum platform has a more active community and abundant resources to leverage. 
 
  The most recent iteration boasts a classic database that allows for more throughput and quicker development cycles compared to its blockchain peer. With the help of Iowa State University the project was accepted as a  senior design capstone project
 
-There is [evidence](http://www.solarcity.com/sites/default/files/SolarCity_Distributed_Grid-021016.pdf) that a distributed grid has a net positive benefit for society. The issue arises in that there is little incentive to implement this system. The incentive is spread out over the masses while the few parties that benefit from the current model lobby to keep it with a strong presence. 
+There is [evidence](http://www.solarcity.com/sites/default/files/SolarCity_Distributed_Grid-021016.pdf) that a distributed grid has a net positive benefit for society. The issue arises in that there is little incentive to implement this system. The incentive is spread out over the masses while the few parties that benefit from the current model lobby to keep it. 
 
-The mission for Open Energy is to break down these barriers, by creating an environment for peer to peer energy transactions. In certain locations there are solar or wind installations that produce energy at a cost cheaper than the grid. By allowing individuals the opportunity to buy this energy you 1. incentivize the producer to purchase more clean energy installations and 2. save money for the consumer. There a myriad of other benefits including lower transmission costs, infrastructure, and a reduction in energy buffers for a utility.
+The mission for Open Energy is to break down these barriers, by creating an environment for peer to peer energy transactions. In certain locations there are solar or wind installations that produce energy cheaper than the grid. By allowing individuals the opportunity to purchase this energy you 1. incentivize the producer to purchase more clean energy installations and 2. save money for the buyer. There are a myriad of other benefits including lower transmission costs, stable infrastructure, and a reduction in energy buffers for a utility. As we are collecting data we can help enable grids to provide real time billing a system that has reduced energy consumption (5-7%) in many areas by informing the consumer energy prices throughout the day.
+
+Our energy platform requires a smart meter to log consumption data (energy the consumer uses from the grid) and production data (energy the user produces from energy generation sources). 
+
+![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/hardwareschem.png){: .center-image }
 
 To follow along, or contribute, fork [this repo](https://github.com/bgeils/open-energy).
 
