@@ -67,12 +67,15 @@ Tech Stack: MongoDB, API.AI, Meteor.js, Node, nginx, AWS, Python3, NLTK
 
 ![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/atlas_customer.png){: .center-image }
 
-*Pictured above is the customer interface to Atlas Fitness. Our clients log into this system to identify their audience and cater content accordingly.*
+*Customer interface to Atlas Fitness. Our clients log into this system to identify their audience and cater content accordingly.*
 
+![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/atlasconvo.png){: .center-image }
+
+*Sample customer interaction. Our servers directly respond to fitness queries.*
 
 ### Structurely 
 
-![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/struct.png){: .center-image }
+![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/struct_convo.png){: .center-image }
 
 One of Sodima's first contracts was for Structurely. We had been tasked to build an artificially intelligent chat technology for their real estate company. The project was a finalist for Inman's Most Innovative Technology in real estate in 2016. Our company had the opportunity to build three iterations of this technology. The first iteration was selected to demo at Facebook's HQ. Additionally, Sodima was hired to build a full database system, API, and front end customer portal. Today over 3,500 agents from across 39 states are using this technology to help with their job of selling the right home to people. 
 
