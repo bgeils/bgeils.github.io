@@ -59,7 +59,9 @@ Given the competitive landscape in web services we began to position ourselves t
 
 ## Atlas Fitness - Owned by Sodima Solutions
 
-![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/atlas.png){: .center-image }
+![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/atlasconvo.png){: .center-image }
+
+*Sample customer interaction. Our servers directly respond to fitness queries.*
 
 Atlas was the first product Sodima released. Atlas Fitness is a chatbot for helping people to consistently get to the gym. The technology also featured products and workouts that our clients could configure. In three months we grew to ~1k users and seven clients including gyms in NYC and Miami. During the release Atlas was named the #1 fitness chatbot and #3 health chatbot by botlist.
 
@@ -68,10 +70,6 @@ Tech Stack: MongoDB, API.AI, Meteor.js, Node, nginx, AWS, Python3, NLTK
 ![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/atlas_customer.png){: .center-image }
 
 *Customer interface to Atlas Fitness. Our clients log into this system to identify their audience and cater content accordingly.*
-
-![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/atlasconvo.png){: .center-image }
-
-*Sample customer interaction. Our servers directly respond to fitness queries.*
 
 ### Structurely 
 
@@ -86,6 +84,8 @@ Tech Stack: React, Redux, GraphQL, Node, Meteor, PSQL, AWS, Digital Ocean, nginx
 [Link to Structurely's homepage](https://structurely.com)
 
 ![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/daystosell.png){: .center-image }
+
+*The Structurely Team + Brendon*
 
 I was invited to join the Structurely team at an SF hackathon to design an algorithm for picking a price to sell your home given the number of days you are willing to wait. The system is patent pending. During this hackathon I learned various clustering algorithms and data visualization techniques. Also, this was the first time I was introduced to Jupyter notebooks, I haven't looked back since.
 
@@ -103,9 +103,13 @@ Tech Stack: Meteor, Digital Ocean, Flask, Python, Mapbox/Leaflet, MongoDB
 
 ![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/tervaviz.png){: .center-image }
 
+*Iowa farmland for sale.*
+
 ## Quantum Visualization -- Harvard's Hackathon
 
 ![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/qcviz.gif){: .center-image }
+
+*Two bloch spheres, one has an X gate applied to it.*
 
 As quantum hardware is progressing there is a future where a programmer would execute certain portions of their programs on a quantum computer. To assist in the paradigm shift that software and hardware are going through in the quantum realm, our team built a quantum VM and visualization tool. The best case scenario is a future where this tool becomes the Code Academy for the quantum programmers. After researching optical and ion based quantum implementations I joined a team at Harvard to address the software angle of quantum. 
 
