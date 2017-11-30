@@ -49,9 +49,6 @@ Given the competitive landscape in web services we began to position ourselves t
 * +15 web development clients
 * NewCo Helsinki Accelerator -- Finland
 * StartUp FIU Accelerator -- Florida International Unviersity
-* Sodima Solutions owns equity in the following two companies: 
-	* [Structurely](https://structurely.com) 5%
-	* [Terva](https://terva.ag) 4% 
 
 #### Sodima in the News
 * [Pitch Competition](http://www.iowastatedaily.com/news/academics/article_8c6e0d9e-0480-11e7-b610-1f042f982db0.html)
