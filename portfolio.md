@@ -4,44 +4,51 @@ title: Portfolio
 permalink: /portfolio/
 ---
 ## Open Energy Platform 
+
+
 ![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/energyscreen.png){: .center-image }
 
-*[Open Energy Landing Page](http://myopenenergy.com)*
+*[Open Energy Landing Page](http://myopenenergy.com){:target="_blank"}*
 
-Open Energy is an energy platform that allows consumers to efficiently trade energy at a consumer level – allowing them to save money and improve the sustainability of the grid. The project began with a blockchain implementation in IBM's Hyperledger technology during a hackathon in the Netherlands. Our team of three took home the 5000 euro grand prize for prototyping the marketplace. After the hackathon I opted to pursue the project further after speaking with Engie and Shell, two utilities.
+* 2016 - 2017
 
- The next iteration occured at UltraHacks a hackathon in Helsinki, Finland. I decided to port the blockchain component to Ethereum as it became the standard in blockchain. The Ethereum platform had a more active community and abundant resources to leverage. 
+Open Energy is an energy platform that allows consumers to efficiently trade energy at a consumer level – allowing them to save money and improve the overall sustainability of the grid. Open Energy began with a blockchain implementation in IBM’s Hyperledger technology during a hackathon event in the Netherlands. My team of three took home the € 5,000 grand prize for prototyping this energy marketplace. After the hackathon, I opted to pursue the project further after speaking with two popular utility companies: Engie and Shell.
 
- The most recent iteration boasts a classic database that allows for more throughput and quicker development cycles compared to its blockchain peer. With the help of Iowa State University the project was accepted as a senior design capstone project.
+The next iteration of this platform occurred at UltraHacks in Helsinki, Finland. I decided to port the blockchain component to Ethereum as it became the standard in blockchain. The Ethereum platform had a more active community and abundant resources to leverage.
 
-There is [evidence](http://www.solarcity.com/sites/default/files/SolarCity_Distributed_Grid-021016.pdf) that a distributed grid has a net positive benefit for society. The issue arises in that there is little incentive to implement this system. The incentive is spread out over the masses while the few parties that benefit from the current model lobby to keep it. 
+The most recent iteration boasts a classic database that allows for more throughput and quicker development cycles compared to its blockchain peer. The project was later accepted as my senior design capstone project at Iowa State University.
 
-The mission for Open Energy is to break down these barriers, by creating an environment for peer to peer energy transactions. In certain locations there are solar or wind installations that produce energy cheaper than the grid. By allowing individuals the opportunity to purchase this energy you 1. incentivize the producer to purchase more clean energy installations and 2. save money for the buyer. There are a myriad of other benefits including lower transmission costs, stable infrastructure, and a reduction in energy buffers for a utility. As we are collecting data we can help enable grids to provide real time billing a system that has reduced energy consumption (5-7%) in many areas by informing the consumer energy prices throughout the day.
+The mission for Open Energy is to break down incentive barriers within the energy grid and produce a net positive benefit for the masses rather than the few parties that benefit from the current model through creating an environment for peer to peer energy transactions. 
 
-Our energy platform requires a smart meter to log consumption data (energy the consumer uses from the grid) and production data (energy the user produces from energy generation sources). Below is the block diagram for the system. Using two transducers we can non-invasively measure the energy flow at both the consumption and production ties. This is sent to our microprocessor for filtering and passed to the communication module. To date we have ethernet and wifi capabilities for the communication module. The comm module uses TCP/IP to hit a Flask endpoint for database entry.
+In certain locations, there are solar or wind installations that produce energy cheaper than the grid. Allowing individuals the opportunity to purchase this renewable energy incentivizes the producer to purchase more clean energy installations saves money for the buyer. There are a [myriad of other benefits](http://www.solarcity.com/sites/default/files/SolarCity_Distributed_Grid-021016.pdf){:target="_blank"} including lower transmission costs, stable infrastructure, and a reduction in energy buffers for a utility. 
+
+As we collect data, we can help enable grids to provide a real time billing system. Similar systems have reduced energy consumption by 5-7% in many areas by informing the consumer of competitive energy prices throughout the day. This system also uses a smart meter to log consumption and production data.
+
 
 ![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/hardwareschem.png){: .center-image }
 
-To get around the political barriers many municipalities have in regards to energy trading protocol I've turned our efforts to the private sector for prompt implementation. A Chicago developer is now collaborating to allow our smart meter and trading technology to be installed within their development zoning. By going direct to the developer we don't need municipality approval to share energy as the grid is owned and maintained by the developer within their zoning. 
+A number of political barriers exist within municipalities in regards to energy trading, so I’ve shifted Open Energy’s efforts to the private sector for prompt implementation. A Chicago developer is now collaborating to allow our smart meter and trading technology to be installed within their development zoning. By going direct to the developer, Open Energy won’t need municipality approval to share energy as the grid is owned and maintained by the developer.
 
-After proving the benefits from distributed generation, storage, trading, and energy transparency at the developer spectrum we plan to expand our product offerings to a wider audience. 
+Open Energy plans to expand our product offerings to a wider audience after proving the benefits from distributed generation, storage, trading, and energy transparency at the developer spectrum.
 
-To follow along, or contribute, fork [this repo](https://github.com/bgeils/open-energy).
+To follow along, or contribute, fork [this repo](https://github.com/bgeils/open-energy){:target="_blank"}.
 
-* [Press](http://brendongeils.com/energy/)
-* [Demo Customer Interface](http://www.myopenenergy.com)
+* [Press](http://brendongeils.com/energy/){:target="_blank"}
+* [Demo Customer Interface](http://www.myopenenergy.com){:target="_blank"}
 
 ## Sodima Solutions -- Co-Founder/CEO
 
 ![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/sodima.jpg){: .center-image }
 
-* 2015 - 2016 -- Miami, FL
+* 2016 - 2017
 
-Sodima had its humble beginnings in Miami, FL during Florida International University's Spring Hackathon. I met my co-founder Marcellus G. during the event, where we immediately clicked. The following months we spend working as a pair with a focus on web services and digital marketing. As we grew into the communication space we had the opportunity to work heavily with two startups, Structurely & Terva, bringing their ideas to an MVP and product release. During the 20 months at Sodima Solutions our company secured revenue of ~100k and equity in multiple startups.
+Sodima Solutions had its humble beginnings in Miami, FL during Florida International University’s Spring Hackathon. It was here I met Marcellus G., my co-founder, and we immediately clicked. The following months we spent working as a pair with a focus on web services and digital marketing. As we grew into the communication space, we had the opportunity to work heavily with two startups, Structurely & Terva. Our team brought each idea to an MVP and eventual product release. Through the period of 20 months Sodima Solutions secured a revenue of ~100k and acquired equity in multiple startups.
 
-During the web development phase of the business I interviewed clients, build solutions, and maintained them. Marcellus would find and make the sale, passing off the client to me. We built the majority of our web services in wordpress or other highly managed systems. This allowed us to easily maintain the project and hand it off to our client upon completion. This taught me basic web technologies -- HTML, CSS, JS -- and more importantly how to work with our clients. Adjacent to the technology stack I grew into the finance and legal role. I drafted all our contracts prior to having professional review -- a decision that saved us big time. The finances were fairly straight forward while operating in a consulting business allowing cashflow to rarely be an issue. 
+During the web development phase of the business, I interviewed clients, built solutions, and performed continual maintenance. Marcellus would find and make the sale and then direct the client to me. 
 
-Given the competitive landscape in web services we began to position ourselves to take on larger web applications and more specifically communciation technology.
+The majority of our web services were constructed in Wordpress or other highly managed systems. This allowed us to easily maintain the project and hand it back to our client upon completion. This experience taught me basic web technologies – HTML, CSS, JS – and more importantly how to work with our clients. In addition to the technology development, I grew into the finance and legal role. I drafted all contracts prior to having professional review – a decision that saved the company large amounts of time.
+
+Given the competitive landscape in web services, Sodima began to position itself to take on larger web applications and more specifically communication technology.
 
 * Revenue: +$100K
 * Products: Atlas Fitness
@@ -51,34 +58,23 @@ Given the competitive landscape in web services we began to position ourselves t
 * StartUp FIU Accelerator -- Florida International Unviersity
 
 #### Sodima in the News
-* [Pitch Competition](http://www.iowastatedaily.com/news/academics/article_8c6e0d9e-0480-11e7-b610-1f042f982db0.html)
-* [Chatbot landscape](https://blog.botmakers.net/chatbot-developers-landscape-130-development-agencies-powering-the-future-of-chatbots-industry-5cec2e1eeb34)
+* [Pitch Competition](http://www.iowastatedaily.com/news/academics/article_8c6e0d9e-0480-11e7-b610-1f042f982db0.html){:target="_blank"}
+* [Chatbot landscape](https://blog.botmakers.net/chatbot-developers-landscape-130-development-agencies-powering-the-future-of-chatbots-industry-5cec2e1eeb34){:target="_blank"}
 
-## Atlas Fitness - Owned by Sodima Solutions
-
-![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/atlasconvo.png){: .center-image }
-
-*Sample customer interaction. Our servers directly respond to fitness queries.*
-
-Atlas was the first product Sodima released. Atlas Fitness is a chatbot for helping people to consistently get to the gym. The technology also featured products and workouts that our clients could configure. In three months we grew to ~1k users and seven clients including gyms in NYC and Miami. During the release Atlas was named the #1 fitness chatbot and #3 health chatbot by botlist.
-
-Tech Stack: MongoDB, API.AI, Meteor.js, Node, nginx, AWS, Python3, NLTK
-
-![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/atlas_customer.png){: .center-image }
-
-*Customer interface to Atlas Fitness. Our clients log into this system to identify their audience and cater content accordingly.*
 
 ### Structurely 
 
 ![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/struct_convo.png){: .center-image }
 
-One of Sodima's first contracts was for Structurely. We had been tasked to build an artificially intelligent chat technology for their real estate company. The project was a finalist for Inman's Most Innovative Technology in real estate in 2016. Our company had the opportunity to build three iterations of this technology. The first iteration was selected to demo at Facebook's HQ. Additionally, Sodima was hired to build a full database system, API, and front end customer portal. Today over 3,500 agents from across 39 states are using this technology to help with their job of selling the right home to people. 
+* 2016 - 2017
 
-My role was interviewing and distilling the client's requests, creating system designs and helping our team implement the solutions across the stack. As Structurely grew I turned focused our engineering efforts on creating front ends backed by JSON to allow our clients to make on-the-fly edits to configurations. This allowed our development team to focus on core features and allow the content team to build conversational components separately. 
+Structurely was one of Sodima Solution’s earliest contracts. We had been tasked to build an artificially intelligent chat technology for their real estate company. The project was a finalist for Inman’s Most Innovative Technology in real estate in 2016. Our company had the opportunity to build three iterations of this technology. The first iteration was selected to be demonstrated at Facebook’s headquarters. Additionally, Sodima was hired to build a full database system, API, and front-end customer portal. Today over 3,500 agents from across 39 states are using this technology to help sell the right home to their clients.
+
+My role was interviewing and distilling the client’s requests, creating system designs, and helping our team implement the solutions across the stack. As Structurely grew, I focused our engineering efforts on creating front-ends backed by JSON to allow our clients to make on-the-fly edits to their configurations. This allowed our development team to focus on core features and allow the content team to build conversational components separately.
 
 Tech Stack: React, Redux, GraphQL, Node, Meteor, PSQL, AWS, Digital Ocean, nginx, python ML kits, API.AI, Flask, humans (when the convo goes astray)
 
-[Link to Structurely's homepage](https://structurely.com)
+[Link to Structurely's homepage](https://structurely.com){:target="_blank"}
 
 ![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/daystosell.png){: .center-image }
 
@@ -90,13 +86,15 @@ I was invited to join the Structurely team at an SF hackathon to design an algor
 
 ![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/terva.jpeg){: .center-image }
 
-Another client for Sodima was Terva, a craigslist for farmland. The company was tasked with building a web application the allowed users to search for land for sale and interact with it accordingly. Our system incorporated a database with millions of documents that were served over in GeoJSON to visualize. 
+* 2016 - 2017
 
-The theme in designing and deploying technology at Terva was scale. From the start we knew the data was going to be large and messy. The users were also accessing a heavy application and weren't the most technically savvy. The user experience solved a number of these issues. Having loading menus with tips and messages made the application feel faster. Using contrasting colors and industry standards helped direct the users eye and more easily digest the content.  
+Another client for Sodima was Terva, “a Craigslist for farmland.” Sodima Solutions was tasked with building a web application that allowed users to search for available land and interact with it accordingly. Our system incorporated a database with millions of documents that were served in GeoJSON to visualize.
+
+The theme in designing and deploying technology at Terva was scale. It was initially apparent the data was going to be large and messy. We had to plan for a user base which was not technically savvy and were going to be accessing a fairly heavy application. The user experience design solved a number of these issues. Incorporating loading menus with tips and messages made the application feel faster. Using contrasting colors and other design standards helped direct the user’s eye and more easily digest the content.
 
 Tech Stack: Meteor, Digital Ocean, Flask, Python, Mapbox/Leaflet, MongoDB
 
-[Link to Terva's homepage](http://landing.terva.ag/)
+[Link to Terva's homepage](http://landing.terva.ag/){:target="_blank"}
 
 ![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/tervaviz.png){: .center-image }
 
@@ -108,11 +106,13 @@ Tech Stack: Meteor, Digital Ocean, Flask, Python, Mapbox/Leaflet, MongoDB
 
 *Two bloch spheres, one has an X gate applied to it.*
 
-As quantum hardware is progressing there is a future where a programmer would execute certain portions of their programs on a quantum computer. To assist in the paradigm shift that software and hardware are going through in the quantum realm, our team built a quantum VM and visualization tool. The best case scenario is a future where this tool becomes the Code Academy for the quantum programmers. After researching optical and ion based quantum implementations I joined a team at Harvard to address the software angle of quantum. 
+* 2017
 
-Using the quantum properties of superposition and entanglement certain problems within computer science have exponential speeds ups. Factoring problems and unordered search are two common applications. Our initial design used Regetti's quantum API to process the programs we wrote in QUIL, what we dub the assembly language of quantum computers. After Regetti's server went down we were forced into implementing our own quantum virtual machine. The basic gates we needed to implement in a universal gate set were X, Y, Z and CNOT. 
+As quantum hardware progresses, it is likely programmers will execute certain portions of their programs on a quantum computer in the near future. To assist with the paradigm shift that software and hardware are going through in the quantum realm, my team built a quantum VM and visualization tool. The best case scenario is a future where this tool becomes the Code Academy for the quantum programmers. After researching optical and ion based quantum implementations I joined a team at Harvard to address the software angle of quantum.
 
-*Want to try the visualizer out yourself? [Here you go.](http://qchackers.com)*
+Using the quantum properties of superposition and entanglement certain problems within computer science have exponential speed increases. Factoring problems and unordered search are two common applications. Our initial design used Regetti’s quantum API to process the programs written in QUIL, the assembly language of quantum computers. After Regetti’s server went down we were forced into implementing our own quantum virtual machine. The basic gates we needed to implement in a universal gate set were X, Y, Z and CNOT.
+
+*Want to try the visualizer out yourself? [Here you go.](http://qchackers.com){:target="_blank"}*
 
 Code snippet to try out
 ```js
@@ -124,14 +124,13 @@ The X Gate performs a rotation of pi around the x axis.
 
 ## SpaceX -- Instrumentation & RangeOps Internship
 
-* Spring 2016 -- Cape Canaveral, FL
-
-As an instrumentation and comm intern my focus was on designing and implementing systems for ground control to reliably launch Falcon 9 rockets. During my time at the Cape I helped launch and, fingers crossed, land five Falcon 9 rockets at LC-40 and SLC-39A. The majority of my time was spend on 39A projects. This is the same space launch complex as the Apollo missions from '63 to '72. Part of the 39A work was associated with pad completion for Falcon Heavy. I also worked with the payload and Dragon install implementing an end-to-end hazard-safe communication system for pre-flight operations. 
-
-
 ![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/waterlanding.gif){: .center-image }
 
 *Video Source: Youtube @spacexchannel*
+
+* Spring 2016 -- Cape Canaveral, FL
+
+As an instrumentation and communication intern, I focused on designing and implementing systems for ground control to reliably launch Falcon 9 rockets. During my time at the Cape, I helped launch and (fingers crossed) land five Falcon 9 rockets at LC-40 and SLC-39A. The majority of my time was spent on 39A projects. This is the same space launch complex used in the Apollo missions from 1963-1972. Part of the 39A work was associated with pad completion for Falcon Heavy. I also worked with the payload and Dragon install implementing an end-to-end hazard-safe communication system for pre-flight operations.
 
 *Landing the first rocket on water, during the internship.*
 
@@ -141,11 +140,11 @@ As an instrumentation and comm intern my focus was on designing and implementing
 
 *We had a few of these too... but practice makes perfect.*
 
-### General 
+## General 
 
-* [Get to know](http://www.isupjcenter.org/2017/02/get-to-know-brendon-geils/)
-* [Future Founders Release](https://www.prnewswire.com/news-releases/future-founders-names-2017-fellows-17-entrepreneurs-you-should-know-300388639.html)
-* [ISU Press](http://www.ece.iastate.edu/files/2011/02/Summer-2017-Connections-Web.pdf)
+* [Get to know](http://www.isupjcenter.org/2017/02/get-to-know-brendon-geils/){:target="_blank"}
+* [Future Founders Release](https://www.prnewswire.com/news-releases/future-founders-names-2017-fellows-17-entrepreneurs-you-should-know-300388639.html){:target="_blank"}
+* [ISU Press](http://www.ece.iastate.edu/files/2011/02/Summer-2017-Connections-Web.pdf){:target="_blank"}
 
 Events:
 * Collegiate Entrepreneur Organization Conference - Orlando, FL
@@ -156,21 +155,23 @@ Events:
 
 ## Defining Experiences
 
-To better understand my personality, what makes me tick and some more impressionable moments in my life I've put together my most defining experiences. While working in teams I belive it is important to be vulnerable and open. The most effective way that I can be open with a new team is to understand their experiences and have them understand mine. 
+To better understand my personality, I’ve put together my most defining experiences. While working in teams I believe it is important to be vulnerable. The most effective way that I can be open with a new team is to understand their experiences and allow them to understand mine.
 
 #### Almost Abroad
 
-As a studying electrical engineer the computer science field was always very interesting to me, but I felt I never had a chance to break into the market given my "path" was set in electrical engineering. The tipping point came when I was two weeks out from study abroad semester of lax living and reluctant studying in Spain. I knew this trip would be an eye opening cultural experience, but I would neglect my growing interest in computer science. 
+Through my study as an electrical engineer, the computer science field was always very interesting to me. I unfortunately felt I never had a chance to break into the market given my “path” was set in electrical engineering. I hit a tipping point two weeks before embarking on a study abroad semester of relaxed living and reluctant studying in Spain. I knew this trip would be an eye opening cultural experience, but I would neglect my growing interest in computer science.
 
-After weighing my options, I canceled the trip. This was a turning point in my life. I spent the subsequent months absorbing as much as I could in order to at the time get the "Google" dream job. This goal overtime faded as I understood the potential I had within the field. Studying computer science for those three months I learned something more important than the most efficient way to traverse a binary tree, but how I could effect global systems such as energy markets. The following year I did just that. I worked at SpaceX, Palantir, and a company I co-founded, Sodima Solutions.
+After weighing my options, I canceled the trip. I spent the subsequent months absorbing as much knowledge as I could in order to work towards my “dream job” at Google. This goal faded over time as I fully understood my potential within the field. Studying computer science for those three months, I learned something more than just the most efficient way to traverse a binary tree. I understood how I could affect global systems such as energy markets.
 
-Having reviewed the companies attending my university's career fair I booked a flight to UCLA to attend theirs with a focus on gettin a technology internship. While boarding the flight I recieved the email from UCLA's career staff stating I was not to attend the fair less I was an enrolled UCLA student. The wheels sputtered up and I was on my way to California from small town Iowa. With a bit of luck I was able to get into the fair and landed interviews over the next few months with Palantir, Google, Microsoft, American Express, IBM, SpaceX and Bloomberg. 
+With a desire to gain a technology-focused internship, I booked a flight to UCLA to attend their career fair. I received an email as I boarded my flight from UCLA’s career staff stating I was not to attend the fair unless I was an enrolled UCLA student. The wheels sputtered up and I was on my way to California from small-town Iowa. Through some perseverance and a bit of luck, I was able to get into the fair and landed interviews over the next few months with Palantir, Google, Microsoft, American Express, IBM, SpaceX and Bloomberg.
 
-I wrote a blog post shortly after [here](http://brendongeils.com/Following-passions/).
+I wrote a blog post shortly after [here](http://brendongeils.com/Following-passions/){:target="_blank"}.
+
+These experiences allowed me to affect global systems in the way I truly hoped. My work for SpaceX, Palantir, and the founding of Sodima Solutions provided me with a full understanding of my own value and talent within the industry. This further galvanized my vision for how I could use my skills to impact the world.
 
 #### Hackathons
 
-Each hackathon has offered me something I would never expect. I met my co-founder, my first two clients and landed an internship from going to hackathons. The energy and mentality kept me coming back. Open Energy was another hackathon-born project that I would never have been exposed to otherwise.
+Attending hackathons offered me unexpected benefits at every turn. I met my co-founder, my first two clients, landed an internship, and created projects that have transformed my perspective. The all-encompassing energy and chance to interact with people of similar mentalities kept me coming back.
 
 15 on-site hackathons including:
 
