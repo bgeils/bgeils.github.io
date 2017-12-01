@@ -20,12 +20,10 @@ The most recent iteration boasts a classic database that allows for more through
 
 The mission for Open Energy is to break down incentive barriers within the energy grid and produce a net positive benefit for the masses rather than the few parties that benefit from the current model through creating an environment for peer to peer energy transactions. 
 
-In certain locations, there are solar or wind installations that produce energy cheaper than the grid. Allowing individuals the opportunity to purchase this renewable energy incentivizes the producer to purchase more clean energy installations saves money for the buyer. There are a [myriad of other benefits](http://www.solarcity.com/sites/default/files/SolarCity_Distributed_Grid-021016.pdf){:target="_blank"} including lower transmission costs, stable infrastructure, and a reduction in energy buffers for a utility. 
+In certain locations, there are solar or wind installations that produce energy cheaper than the grid. Allowing individuals the opportunity to purchase this renewable energy incentivizes the producer to purchase more clean energy installations and saves money for the buyer. There are a [myriad of other benefits](http://www.solarcity.com/sites/default/files/SolarCity_Distributed_Grid-021016.pdf){:target="_blank"} including lower transmission costs, more stable infrastructure, and a reduction in energy buffers for a utility. 
 
-As we collect data, we can help enable grids to provide a real time billing system. Similar systems have reduced energy consumption by 5-7% in many areas by informing the consumer of competitive energy prices throughout the day. This system also uses a smart meter to log consumption and production data.
+As we collect data, we can help enable grids to provide a real time billing system. [Studies](https://link.springer.com/article/10.1007/s12053-012-9169-3){:target="_blank"} estimate a reduction of energy consumption by 3-5% in many areas by informing the consumer of competitive energy prices throughout the day. This system also uses a smart meter to log consumption and production data.
 
-
-![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/hardwareschem.png){: .center-image }
 
 A number of political barriers exist within municipalities in regards to energy trading, so I’ve shifted Open Energy’s efforts to the private sector for prompt implementation. A Chicago developer is now collaborating to allow our smart meter and trading technology to be installed within their development zoning. By going direct to the developer, Open Energy won’t need municipality approval to share energy as the grid is owned and maintained by the developer.
 
@@ -126,19 +124,16 @@ The X Gate performs a rotation of pi around the x axis.
 
 ![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/waterlanding.gif){: .center-image }
 
-*Video Source: Youtube @spacexchannel*
+*Landing the first rocket on water, during the internship. Video Source: Youtube @spacexchannel*
 
 * Spring 2016 -- Cape Canaveral, FL
 
-As an instrumentation and communication intern, I focused on designing and implementing systems for ground control to reliably launch Falcon 9 rockets. During my time at the Cape, I helped launch and (fingers crossed) land five Falcon 9 rockets at LC-40 and SLC-39A. The majority of my time was spent on 39A projects. This is the same space launch complex used in the Apollo missions from 1963-1972. Part of the 39A work was associated with pad completion for Falcon Heavy. I also worked with the payload and Dragon install implementing an end-to-end hazard-safe communication system for pre-flight operations.
+As an instrumentation and communication intern, I focused on designing and implementing systems for ground control to reliably launch Falcon 9 rockets. During my time at the Cape, I helped launch and (fingers crossed) land five Falcon 9 rockets at LC-40 and SLC-39A. The majority of my time was spent on 39A projects. This is the same space launch complex used in the Apollo missions from 1963-1972. Part of the 39A work was associated with pad completion for Falcon Heavy. I also worked with the payload and Dragon install implementing an end-to-end hazard-safe communication system for pre-flight operations.  
 
-*Landing the first rocket on water, during the internship.*
 
 ![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/waterfall.gif){: .center-image }
 
-*Video Source: Youtube @spacexchannel*
-
-*We had a few of these too... but practice makes perfect.*
+*We had a few of these too... but practice makes perfect. Video Source: Youtube @spacexchannel*
 
 ## General 
 
@@ -163,7 +158,7 @@ Through my study as an electrical engineer, the computer science field was alway
 
 After weighing my options, I canceled the trip. I spent the subsequent months absorbing as much knowledge as I could in order to work towards my “dream job” at Google. This goal faded over time as I fully understood my potential within the field. Studying computer science for those three months, I learned something more than just the most efficient way to traverse a binary tree. I understood how I could affect global systems such as energy markets.
 
-With a desire to gain a technology-focused internship, I booked a flight to UCLA to attend their career fair. I received an email as I boarded my flight from UCLA’s career staff stating I was not to attend the fair unless I was an enrolled UCLA student. The wheels sputtered up and I was on my way to California from small-town Iowa. Through some perseverance and a bit of luck, I was able to get into the fair and landed interviews over the next few months with Palantir, Google, Microsoft, American Express, IBM, SpaceX and Bloomberg.
+With a desire to gain a CS-focused internship, I booked a flight to UCLA to attend their career fair. I received an email as I boarded my flight from UCLA’s career staff stating I was not to attend the fair unless I was an enrolled UCLA student. The wheels sputtered up and I was on my way to California from small-town Iowa. Through some perseverance and a bit of luck, I was able to sneak into the fair and landed interviews over the next few months with Palantir, Google, Microsoft, American Express, IBM, SpaceX and Bloomberg.
 
 I wrote a blog post shortly after [here](http://brendongeils.com/Following-passions/){:target="_blank"}.
 
