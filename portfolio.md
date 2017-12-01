@@ -135,6 +135,15 @@ As an instrumentation and communication intern, I focused on designing and imple
 
 *We had a few of these too... but practice makes perfect. Video Source: Youtube @spacexchannel*
 
+## Moralit.ai -- Princeton's Hackathon
+
+![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/moralit.png){: .center-image }
+
+
+Moralit.ai is an artificially intelligent personal assistant which uses natural language processing and machine learning to perform moral decision making. By adhering to deontological principles surrounding murder, suffering, adultery, and deception, moralit.it determines the ethical permissibility of performing action requests from the user. My role was to build the machine learning processor to use general consensus sentiment on a subject to make a decision. Over time this system would self correct. Our team took home the Most Creative & Impactful prize. We chose to pursue this idea of instilling ethics into technology after reading about the, at the time, recent [tay.ai tweets](http://www.businessinsider.com/microsoft-deletes-racist-genocidal-tweets-from-ai-chatbot-tay-2016-3){:target="_blank"} from Microsoft's bot. Tesla also was on the chop block for releasing the self-driving feature that would need to make ethical decisions in practice -- [Trolley Problem](https://en.wikipedia.org/wiki/Trolley_problem){:target="_blank"}
+
+Tech Stack: Node.js, Express, mySQL, NLP models
+
 ## General 
 
 * [Get to know](http://www.isupjcenter.org/2017/02/get-to-know-brendon-geils/){:target="_blank"}
