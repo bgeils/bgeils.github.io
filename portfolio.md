@@ -8,7 +8,7 @@ permalink: /portfolio/
 
 ![alt text](https://raw.githubusercontent.com/bgeils/bgeils.github.io/master/images/energyscreen.png){: .center-image }
 
-*[Open Energy Landing Page](http://myopenenergy.com){:target="_blank"}*
+*[Open Energy Landing Page *Chrome Only](http://myopenenergy.com){:target="_blank"}*
 
 * 2016 - 2017
 
@@ -32,7 +32,7 @@ Open Energy plans to expand our product offerings to a wider audience after prov
 To follow along, or contribute, fork [this repo](https://github.com/bgeils/open-energy){:target="_blank"}.
 
 * [Press](http://brendongeils.com/energy/){:target="_blank"}
-* [Demo Customer Interface](http://www.myopenenergy.com){:target="_blank"}
+* [Demo Customer Interface *Chrome Only](http://www.myopenenergy.com){:target="_blank"}
 
 ## Sodima Solutions -- Co-Founder/CEO
 

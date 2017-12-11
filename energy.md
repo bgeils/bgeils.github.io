@@ -12,6 +12,8 @@ The secondary goal that this project aims to reach is aiding in the decentraliza
 
 ### Proposed Solution
 
+*[Open Energy Landing Page *Chrome Only](http://myopenenergy.com){:target="_blank"}*
+
 This project has two major components: the development of an inexpensive and user friendly smart power meter and software to facilitate peer to peer trading of surplus energy. When these two stages of the project are complete, individuals using our hardware and software will be able to buy or sell surplus energy at significantly better rates than could be obtained going through a utility company. 
 
 ### News Coverage:
